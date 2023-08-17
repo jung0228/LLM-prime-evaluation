@@ -1,5 +1,5 @@
 # GPT-reasoning-prompting
-Repository for data and code that tests the reasoning ability of the GPT model.
+:octocat: Repository for data and code that tests the reasoning ability of the GPT model.
 
 ## I USE
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
