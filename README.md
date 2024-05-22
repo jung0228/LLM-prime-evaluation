@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=white&height=300&section=header&text=Humane&animation=blinking&fontSize=90&fontColor=d6ace6)
-
-
-
 # GPT-reasoning-prompting
 :octocat: Repository for data and code that tests the reasoning ability of the GPT model.
 
