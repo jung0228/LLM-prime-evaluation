@@ -1,4 +1,4 @@
-# GPT-reasoning-prompting
+# LLM reasoning Testing Project
 :octocat: Repository for data and code that tests the reasoning ability of the GPT model.
 
 ## I USE
