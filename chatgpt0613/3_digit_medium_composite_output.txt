@@ -1,0 +1,2157 @@
+###
+No, 899 is not a prime number. It can be evenly divided by 29 and 31.
+###
+To determine if 899 is a prime number, we need to check if it has any factors other than 1 and itself. 
+
+First, we can check if it is divisible by 2. 
+899 divided by 2 equals 449.5, which is not a whole number. So, it is not divisible by 2.
+
+Next, we can check if it is divisible by 3. 
+The sum of the digits of 899 is 8 + 9 + 9 = 26.
+Since 26 is not divisible by 3, 899 is not divisible by 3.
+
+Now, we can check if it is divisible by any prime numbers between 5 and the square root of 899 (which is approximately 29.98).
+
+We find that 899 is not divisible by 5, 7, 11, 13, 17, 19, 23, or 29.
+
+Therefore, we can conclude that 899 does not have any factors other than 1 and itself, making it a prime number.
+###
+Yes, 899 is a composite number.
+###
+To determine if 899 is a composite number, we need to check if it has any factors other than 1 and itself.
+
+We can start by finding the square root of 899, which is approximately 29.9833.
+
+Next, we can check if any numbers between 2 and 29 divide 899 without any remainder. If we find such a number, then 899 is composite.
+
+Testing the divisibility of 899 by numbers from 2 to 29, we find that it is divisible by 29, since 29 multiplied by 31 equals 899.
+
+Thus, 899 is not prime and is a composite number since it has a factor other than 1 and itself.
+###
+Yes. 899 is divisible by 29.
+###
+Yes
+###
+No, 517 is not a prime number.
+###
+To check if 517 is a prime number, we need to divide it by all numbers from 2 up to its square root. 
+
+The square root of 517 is approximately 22.75. We can round this up to 23 and use this as our upper limit for testing factors. 
+
+Now, we will start dividing 517 by numbers from 2 up to 23. If any of these divisions result in an integer quotient, then 517 is not a prime number. Otherwise, it is prime.
+
+Let's test:
+
+Dividing 517 by 2: 517 ÷ 2 = 258.5 (not an integer quotient)
+Dividing 517 by 3: 517 ÷ 3 = 172.33 (not an integer quotient)
+Dividing 517 by 4: 517 ÷ 4 = 129.25 (not an integer quotient)
+Dividing 517 by 5: 517 ÷ 5 = 103.4 (not an integer quotient)
+Dividing 517 by 6: 517 ÷ 6 = 86.17 (not an integer quotient)
+Dividing 517 by 7: 517 ÷ 7 = 73.85 (not an integer quotient)
+Dividing 517 by 8: 517 ÷ 8 = 64.63 (not an integer quotient)
+Dividing 517 by 9: 517 ÷ 9 = 57.44 (not an integer quotient)
+.
+.
+.
+Dividing 517 by 23: 517 ÷ 23 = 22.48 (not an integer quotient)
+
+Since none of these divisions result in an integer quotient, we can conclude that 517 is a prime number.
+###
+Yes, 517 is a composite number.
+###
+To determine if a number is composite, we need to check if it has any factors other than 1 and itself.
+
+First, we need to find the positive integer factors of 517. We can start by dividing 517 by 2:
+
+517 ÷ 2 = 258 remainder 1
+
+Since the remainder is not 0, 2 is not a factor of 517. We can continue checking the remaining integers up to the square root of 517, which is approximately 22.72.
+
+Next, let's check if any odd numbers from 3 to 22 are factors of 517:
+
+517 ÷ 3 = 172 remainder 1
+517 ÷ 4 = 129 remainder 1
+517 ÷ 5 = 103 remainder 2
+517 ÷ 6 = 86 remainder 1
+517 ÷ 7 = 73 remainder 6
+517 ÷ 8 = 64 remainder 5
+517 ÷ 9 = 57 remainder 4
+517 ÷ 10 = 51 remainder 7
+517 ÷ 11 = 47 remainder 0
+517 ÷ 12 = 43 remainder 1
+517 ÷ 13 = 39 remainder 10
+517 ÷ 14 = 37 remainder 9
+517 ÷ 15 = 34 remainder 7
+517 ÷ 16 = 32 remainder 5
+517 ÷ 17 = 30 remainder 7
+517 ÷ 18 = 28 remainder 13
+517 ÷ 19 = 27 remainder 12
+517 ÷ 20 = 25 remainder 17
+517 ÷ 21 = 24 remainder 13
+517 ÷ 22 = 23 remainder 11
+
+We can see that none of the integers from 2 to 22 are factors of 517 (excluding 1 and 517 itself), so 517 does not have any factors other than 1 and itself.
+
+Therefore, 517 is not a composite number but a prime number.
+###
+Yes.
+###
+No.
+###
+Yes, 901 is a prime number.
+###
+To check if 901 is a prime number, we need to test if it is divisible by any number other than 1 and itself.
+
+We can start by dividing 901 by 2, the smallest prime number. If 901 is divisible by 2, then it is not a prime number.
+
+901 ÷ 2 = 450 remainder 1
+
+Since there is a remainder of 1, we can safely say that 901 is not divisible by 2.
+
+Next, we can continue testing divisibility by odd numbers up to the square root of 901, which is approximately 30 (since √901 ≈ 30.03).
+
+Testing divisibility by odd numbers greater than 3:
+
+901 ÷ 3 = 300 remainder 1
+901 ÷ 5 = 180 remainder 1
+901 ÷ 7 = 128 remainder 5
+901 ÷ 11 = 81 remainder 10
+901 ÷ 13 = 69 remainder 10
+901 ÷ 17 = 53 remainder 0
+
+Here we can observe that 901 is divisible by 17 without any remainder. Therefore, we can conclude that 901 is not a prime number because it is divisible by 17 in addition to 1 and itself.
+###
+No, 901 is not a composite number.
+###
+To determine if 901 is a composite number, we need to determine if it has any factors other than 1 and itself.
+We can start by checking if it is divisible by 2. If a number is divisible by 2, then it is not a prime number and can be considered a composite number.
+However, 901 is not divisible by 2 (since it does not end in an even number), so we can move on to checking if it is divisible by 3.
+We can calculate the sum of the digits of 901: 9 + 0 + 1 = 10. Since 10 is not divisible by 3, we can conclude that 901 is also not divisible by 3.
+Continuing this process, we check for divisibility by 4, 5, 6, 7, 8, 9, and 10. None of these numbers divide evenly into 901.
+Therefore, we can conclude that 901 is a prime number and not a composite number, as it does not have any factors other than 1 and itself.
+###
+No
+###
+No. 901 is not divisible by 53.
+###
+No, 391 is not a prime number. It is divisible by 17 and 23.
+###
+To determine if 391 is a prime number, we need to check if it is divisible by any number other than 1 and itself. 
+
+Let's check if it is divisible by any prime numbers less than its square root. The square root of 391 is approximately 19.8.
+
+We can start by checking division by the prime numbers less than or equal to 19: 2, 3, 5, 7, 11, 13, 17, and 19.
+
+When we divide 391 by 2, we get a remainder of 1.
+When we divide 391 by 3, we get a remainder of 1.
+When we divide 391 by 5, we get a remainder of 1.
+When we divide 391 by 7, we get a remainder of 0.
+
+Therefore, 391 is divisible by 7, which means it is not a prime number.
+
+Conclusion:
+391 is not a prime number because it is divisible by 7.
+###
+Yes, 391 is a composite number.
+###
+To determine if a number is composite or not, we need to check if it has any factors other than 1 and itself. 
+
+To do this step by step, we can start by finding the square root of 391. The square root of 391 is approximately 19.79.
+
+Next, we can check all numbers from 2 to 19 (since they are potential factors) to see if any of them evenly divide into 391.
+
+By performing this step-by-step process, we can observe that 7 is a factor of 391. So, 391 is indeed a composite number since it has factors other than 1 and itself.
+###
+Yes.
+###
+No.
+###
+No, 649 is not a prime number. It is divisible by 11 and 59.
+###
+To determine if 649 is a prime number, we can begin by checking if it is divisible by any prime numbers less than its square root.
+
+The square root of 649 is approximately 25.48, so we only need to check for divisibility by prime numbers up to 25.
+
+Starting with the prime number 2, we check if 649 is divisible by 2. We find that 649 divided by 2 is not an integer, so 649 is not divisible by 2.
+
+Next, we check if 649 is divisible by 3. Summing the digits of 649 (6 + 4 + 9 = 19) shows that it is not divisible by 3, since 19 is not divisible by 3.
+
+Continuing, we check the divisibility of 649 by prime numbers up to 25: 5, 7, 11, 13, 17, 19, 23. None of these prime numbers divide 649 evenly.
+
+Therefore, we can conclude that 649 is a prime number.
+###
+Yes, 649 is a composite number. It is divisible by 1, 7, 13, and 49, in addition to 649 and itself.
+###
+To determine if 649 is a composite number, we need to check if it has any factors other than 1 and itself. We can proceed step by step:
+
+Step 1: Find the square root of 649.
+√649 ≈ 25.48 (rounded to two decimal places)
+
+Step 2: Check if 649 is divisible by any prime numbers up to 25.48:
+649 ÷ 2 = 324.5 (not divisible)
+649 ÷ 3 = 216.33 (not divisible)
+649 ÷ 5 = 129.8 (not divisible)
+649 ÷ 7 = 92.71 (not divisible)
+649 ÷ 11 = 59 (not divisible)
+649 ÷ 13 = 49.92 (not divisible)
+649 ÷ 17 = 38.17 (not divisible)
+649 ÷ 19 = 34.16 (not divisible)
+649 ÷ 23 = 28.22 (not divisible)
+
+Step 3: Since we did not find any factors other than 1 and itself, 649 is a prime number.
+
+Therefore, 649 is not a composite number, it is a prime number.
+###
+Yes.
+###
+No.
+###
+No, 779 is not a prime number.
+It can be divided by 7 and 59 evenly, making it a composite number.
+###
+To determine whether 779 is a prime number, we should first check if it is divisible by any number other than 1 and itself. If we find any such number, it is not a prime number. 
+
+The factors of 779 are: 1, 7, 19, 41, and 779. So, 779 is not a prime number because it is divisible by numbers other than 1 and itself.
+
+Therefore, 779 is not a prime number.
+###
+Yes, 779 is a composite number. It is divisible by 7 and 113.
+###
+To determine if 779 is a composite number, we need to check if it has any factors other than 1 and itself.
+
+We can find factors by dividing 779 by different numbers and checking if the division results in no remainder.
+
+Starting with 2, we see that 779 ÷ 2 = 389.5, not a whole number. 
+Next, we try 3, but 779 ÷ 3 = 259.67, also not a whole number.
+
+We can continue dividing by larger numbers, but since 779 is not divisible evenly by any of the smaller numbers, we can conclude that 779 does not have any factors other than 1 and itself.
+
+Therefore, 779 is not a composite number. It is a prime number.
+###
+Yes.
+###
+Yes.
+###
+No, 781 is not a prime number. It is divisible by 17 and 46, among other numbers.
+###
+To determine if 781 is a prime number, we can start by checking if it is divisible by any numbers other than 1 and itself. 
+
+Checking for divisibility, we can start by checking if it is divisible by 2. If the last digit of 781 is even, then it is divisible by 2. However, the last digit of 781 is 1, which is odd. So 781 is not divisible by 2. 
+
+Next, we can check if 781 is divisible by 3. To do this, we can sum its digits and check if the sum is divisible by 3. Adding 7 + 8 + 1 gives us 16, which is not divisible by 3. Therefore, 781 is not divisible by 3. 
+
+We can continue this process for other primes like 5, 7, etc., but it is unnecessary because we can already conclude that 781 is not divisible by the smaller primes. 
+
+Therefore, 781 is considered a composite number, not a prime number.
+###
+Yes, 781 is a composite number.
+###
+Step 1: To determine if 781 is a composite number, we need to identify its factors.
+
+Step 2: We can start by checking if 781 is divisible by prime numbers starting from 2. If it is divisible by any of these prime numbers, then it is composite.
+
+Step 3: When we divide 781 by 2, we get 390.5, which is not a whole number. This implies that 781 is not divisible by 2.
+
+Step 4: Next, we check if it is divisible by 3. Dividing 781 by 3 gives us 260.333..., which is also not a whole number. Hence, 781 is not divisible by 3.
+
+Step 5: We continue checking for divisibility by prime numbers. Dividing by 5 yields 156.2, which is still not a whole number.
+
+Step 6: The next prime number we can try is 7. When we divide 781 by 7, we obtain 111.571..., which is not a whole number either.
+
+Step 7: Continuing this process, we can conclude that 781 is not divisible by any prime numbers up to its square root.
+
+Step 8: Finally, since 781 is not divisible by any whole numbers other than 1 and itself, we can conclude that it is not a composite number.
+
+Therefore, 781 is not a composite number.
+###
+No.
+###
+No.
+###
+No, 893 is not a prime number.
+###
+To determine if 893 is a prime number, we can follow these steps:
+
+1. Check divisibility by 2: Since the last digit of 893 is 3, which is odd, it is not divisible by 2.
+
+2. Check divisibility by odd numbers between 3 and the square root of 893: We can do this by checking if it is divisible by any odd numbers up to the square root of 893, which is approximately 29.9. Checking divisibility by odd numbers 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, and 29, we find that 893 is not divisible by any of these.
+
+3. Conclude: Since 893 is not divisible by any numbers other than 1 and itself, it is a prime number.
+
+So, yes, 893 is a prime number.
+###
+Yes, 893 is a composite number.
+###
+To determine if 893 is a composite number, we need to check if it has any factors other than 1 and itself.
+
+The first step is to find the square root of 893. The square root of 893 is approximately 29.9.
+
+Next, we check if 893 is divisible by any numbers starting from 2 up to the square root (29).
+
+When we go through the numbers, we find that 893 is not divisible by 2, 3, 5, 7, 11, 13, 17, 19, 23, or 29.
+
+Since there are no factors other than 1 and itself, we can conclude that 893 is a prime number, not a composite number.
+
+Therefore, 893 is not a composite number.
+###
+No.
+###
+Yes.
+###
+No, 143 is not a prime number. It can be divided evenly by 11 and 13, aside from 1 and itself.
+###
+To determine if 143 is a prime number, we need to check if it is divisible by any number other than 1 and itself. 
+
+First, we can check if 143 is divisible by 2. Since it is an odd number, it is not divisible by 2. 
+
+Next, we can check if 143 is divisible by 3. The sum of its digits (1 + 4 + 3) is 8, which is not divisible by 3. 
+
+Now, we can check if 143 is divisible by 5. Since it does not end in 0 or 5, it is not divisible by 5. 
+
+Finally, we can check if 143 is divisible by 7. By subtracting twice the last digit from the number formed by the remaining digits (14 - 6), we see that 143 is not divisible by 7. 
+
+Since we have checked all prime numbers less than or equal to the square root of 143 (which is approximately 11.97), and 143 is not divisible by any of them, we can conclude that 143 is a prime number.
+###
+No, 143 is a composite number.
+###
+To determine if 143 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+We can start by finding the square root of 143, which is approximately 11.9583. 
+
+Next, we can check if any whole number factors exist between 2 and 11. 
+
+Dividing 143 by 2 does not result in a whole number. 
+Dividing 143 by 3 does not result in a whole number. 
+Dividing 143 by 4 does not result in a whole number. 
+Dividing 143 by 5 does not result in a whole number. 
+Dividing 143 by 6 does not result in a whole number. 
+Dividing 143 by 7 does not result in a whole number. 
+Dividing 143 by 8 does not result in a whole number. 
+Dividing 143 by 9 does not result in a whole number. 
+Dividing 143 by 10 does not result in a whole number. 
+Dividing 143 by 11 does not result in a whole number. 
+
+Since it does not have any factors other than 1 and 143 itself, 143 is classified as a prime number, not a composite number.
+###
+Yes.
+###
+Yes.
+###
+No, 527 is not a prime number. It is divisible by 17 and 31.
+###
+To determine if 527 is a prime number, we can check for divisibility by numbers smaller than its square root, since all factors of a number occur in pairs, and one factor of the pair must be smaller than or equal to the square root.
+
+The square root of 527 is approximately 22.94. Let's check divisibility by numbers up to 22.
+
+We check if 527 is divisible by 2. Since it is an odd number and does not end in 0, 2 does not divide it.
+
+Next, we check divisibility by 3. The sum of the digits of 527 is 5 + 2 + 7 = 14, which is not divisible by 3. Therefore, 3 does not divide 527.
+
+Similarly, we check divisibility by 5. Since 527 does not end in 0 or 5, it is not divisible by 5.
+
+Continuing this process, we find that 527 is not divisible by 7, 11, 13, 17, 19, or 23.
+
+Therefore, we can conclude that 527 is a prime number, as it is not divisible by any numbers up to its square root.
+###
+Yes, 527 is a composite number.
+###
+To determine if 527 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+Taking the first step, we can find the square root of 527. The square root of 527 is approximately 22.94. 
+
+Now, let's check if there are any factors of 527 between 2 and 22. 
+
+Dividing 527 by 2, we get a result of approximately 263.5. This is not a whole number, so 2 is not a factor of 527. 
+
+Trying 3, we get a result of approximately 175.7, which isn't a whole number either. Hence, 3 is not a factor of 527. 
+
+Continuing this process, we find that none of the numbers from 2 to 22 are factors of 527. 
+
+Therefore, we can conclude that 527 is not divisible by any number other than 1 and itself. 
+
+Thus, 527 is a prime number and not a composite number.
+###
+Yes.
+###
+No.
+###
+Yes, 913 is a prime number.
+###
+To determine if 913 is a prime number, we need to check if it is divisible by any number other than 1 and itself. 
+
+First, we can check if it is divisible by 2. 913 is not an even number, so it is not divisible by 2.
+
+Next, we can check if it is divisible by 3. The sum of the digits of 913 is 9 + 1 + 3 = 13, which is not divisible by 3. Thus, 913 is not divisible by 3.
+
+Now, let's check for divisibility by other prime numbers less than the square root of 913. The square root of 913 is approximately 30.22.
+
+Checking for divisibility by 5, we observe that 913 does not end in 0 or 5, so it is not divisible by 5.
+
+Checking for divisibility by 7 using a divisibility rule, we can double the last digit (3) and subtract it from the remaining truncated number (91). The result is 91 - 6 = 85, which is not divisible by 7.
+
+Continuing this process for prime numbers up to the square root of 913, we find that 913 is not divisible by 11, 13, 17, 19, 23, 29, or any other prime numbers in this range.
+
+Therefore, 913 does not have any factors other than 1 and itself, so it is a prime number.
+###
+No, 913 is not a composite number. It is a prime number.
+###
+To determine if 913 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+To do this, we can find the square root of 913, which is approximately 30.216. 
+
+Next, we can check if any numbers between 2 and 30 divide evenly into 913. 
+
+By checking these numbers, we find that 913 can be evenly divided by 11 and 83. 
+
+Since 913 has factors other than 1 and itself, it is a composite number.
+###
+Yes
+###
+No.
+###
+No, 403 is not a prime number.
+###
+To determine if 403 is a prime number, we can check if it is divisible by any numbers other than 1 and itself. 
+
+First, we can check if it is divisible by 2. Since the last digit of 403 is odd (3), it is not divisible by 2.
+
+Next, we can check if it is divisible by any odd numbers up to the square root of 403 (approximately 20). We divide 403 by 3, 5, 7, 9, 11, and 13, and we find that none of these divisors give us an integer result.
+
+Therefore, we can conclude that 403 is a prime number since it is not divisible by any numbers other than 1 and itself.
+###
+Yes, 403 is a composite number.
+###
+To determine if 403 is a composite number, we need to check if it has any factors other than 1 and itself.
+
+First, we can check if it is divisible by 2. 403 is not divisible by 2 since it is an odd number.
+
+Next, we can check if it is divisible by 3. The sum of its digits, 4 + 0 + 3, is equal to 7, which is not divisible by 3, so 403 is not divisible by 3.
+
+Since 403 is not divisible by 2 or 3, we can stop checking for factors. Therefore, 403 is a prime number, not a composite number.
+###
+Yes.
+###
+Yes.
+###
+No, 533 is not a prime number. It is divisible by 7, 19, and 29.
+###
+To determine if 533 is a prime number, we can check if it has any factors other than 1 and itself.
+
+First, we observe that 533 is odd, so it is not divisible by 2.
+
+Next, we can check if 533 is divisible by any odd numbers greater than 1. We start by checking division by 3. The sum of its digits (5 + 3 + 3 = 11) is not divisible by 3, so 533 is not divisible by 3.
+
+Similarly, we can check division by 5. However, since 533 does not end with 0 or 5, it is not divisible by 5.
+
+Continuing this process, we can also check division by 7. The alternating sum of the digits (5 - 3 + 3 = 5) is not divisible by 7, so 533 is not divisible by 7.
+
+Since we have checked division by all primes up to the square root of 533 (which is approximately 23.1), we can conclude that 533 is a prime number.
+
+Therefore, the answer is: Yes, 533 is a prime number.
+###
+Yes, 533 is a composite number.
+###
+To determine if 533 is a composite number, we need to check if it has any divisors other than 1 and itself.
+
+Starting with the smallest possible divisor, we divide 533 by 2. If 533 is divisible by 2, then it is not a prime number.
+
+533 ÷ 2 = 266 with a remainder of 1
+
+Since we have a remainder, 2 is not a divisor of 533. We continue to the next possible divisor, which is 3.
+
+533 ÷ 3 = 177 with a remainder of 2
+
+Again, we have a remainder, so 3 is not a divisor of 533. We continue this process until we reach the square root of 533 or find a divisor.
+
+Next, we try 4:
+
+533 ÷ 4 = 133 with a remainder of 1
+
+4 is not a divisor of 533. We continue testing with 5:
+
+533 ÷ 5 = 106 with a remainder of 3
+
+Again, we have a remainder, so 5 is not a divisor of 533. We continue testing until we reach the square root of 533:
+
+533 ÷ 6 = 88 with a remainder of 5
+533 ÷ 7 = 76 with a remainder of 5
+533 ÷ 8 = 66 with a remainder of 5
+533 ÷ 9 = 59 with a remainder of 8
+533 ÷ 10 = 53 with a remainder of 3
+533 ÷ 11 = 48 with a remainder of 5
+533 ÷ 12 = 44 with a remainder of 5
+533 ÷ 13 = 41 with a remainder of 0
+
+At this point, we have found a divisor of 533 (13), which means 533 is a composite number.
+
+Therefore, 533 is indeed a composite number.
+###
+Yes.
+###
+Yes
+###
+No, 407 is not a prime number. It is divisible by 11 and 37.
+###
+To determine if 407 is a prime number, we need to check if it has any factors other than 1 and itself. 
+
+We can start by finding its divisors. To do this, we can factorize 407 by dividing it by prime numbers:
+
+407 ÷ 2 = 203.5 (not a whole number)
+407 ÷ 3 = 135.67 (not a whole number)
+407 ÷ 5 = 81.4 (not a whole number)
+407 ÷ 7 = 58.14 (not a whole number)
+407 ÷ 11 = 37 (a whole number)
+
+Therefore, the factors of 407 are 1, 407, 11, and 37. Since 407 has factors other than 1 and itself, it is not a prime number.
+###
+Yes, the number 407 is a composite number because it can be divided evenly by numbers other than 1 and itself. In fact, 407 can be divided by 11 and 37.
+###
+To determine if a number is composite, we need to check if it is divisible by any number other than 1 and itself.
+
+To check if 407 is divisible by any number other than 1 and itself, we can start by checking if it is divisible evenly by 2.
+407 ÷ 2 = 203 remainder 1
+
+Since there is a remainder when dividing 407 by 2, we can conclude that it is not divisible evenly by 2. 
+
+Next, we can check if it is divisible evenly by any odd numbers. We can start with 3.
+407 ÷ 3 = 135 remainder 2
+
+Again, there is a remainder when dividing 407 by 3, so it is not divisible evenly by 3.
+
+We can continue this process of dividing by consecutive odd numbers to determine if 407 is divisible evenly by any of them. However, upon reaching 11 and 13, we can already see that there will be remainders: 
+407 ÷ 11 = 37 remainder 0
+407 ÷ 13 = 31 remainder 4
+
+Since there are remainders when dividing 407 by other numbers, we can conclude that 407 is not divisible evenly by any number other than 1 and itself. 
+
+Therefore, 407 is not a composite number. It is actually a prime number.
+###
+Yes.
+###
+Yes.
+###
+No, 793 is not a prime number. It is divisible by 13 and 61.
+###
+To determine if 793 is a prime number, we need to check if it is divisible by any numbers besides 1 and itself.
+
+We can start by checking if it is divisible by 2. Since 793 is an odd number and not divisible by 2, we can move on to the next odd number, which is 3.
+
+Let's perform the division 793 ÷ 3:
+
+     264.33
+  -----------
+3 | 793
+
+The division does not result in an integer quotient, as 264.33 is not a whole number. Therefore, 793 is not divisible by 3.
+
+Next, we can try dividing it by 5:
+
+     158.6
+  -----------
+5 | 793
+
+Again, the division does not yield a whole number, so 793 is not divisible by 5.
+
+We can continue this process to check if 793 is divisible by other prime numbers, such as 7, 11, 13, etc. However, considering that 793 is a relatively large number, it may be more efficient to use alternative methods to determine if it is a prime number.
+
+As an alternative, we can check if 793 is divisible by any numbers less than or equal to the square root of 793, since any factor larger than its square root would already have a corresponding factor smaller than the square root.
+
+The square root of 793 is approximately 28.15. So we can check if 793 is divisible by any numbers from 2 to 28.
+
+By performing these checks, we find that 793 is not divisible by any of the numbers from 2 to 28.
+
+Therefore, we can conclude that 793 is a prime number.
+
+###
+Yes, 793 is a composite number.
+###
+To determine if a number is composite, we need to check if it is divisible by any numbers other than 1 and itself.
+
+To do this, let's find the factors of 793:
+
+1 × 793 = 793
+13 × 61 = 793
+
+From the factor pairs we found, we see that 793 can be divided evenly by 13 and 61, in addition to 1 and 793 itself.
+
+Since 793 has factors other than 1 and itself, it is classified as a composite number.
+###
+Yes.
+###
+No.
+###
+No, 923 is not a prime number. It is divisible by 13 and 71.
+###
+To determine if a number is prime, we need to check if it has any divisors other than 1 and itself. 
+First, let's check if 923 is divisible by 2. If it is, then it is not a prime number.
+###
+Yes, 923 is a composite number.
+###
+To determine if 923 is a composite number, we need to check if it has any factors other than 1 and itself. We can do this by finding its prime factorization.
+
+To find the prime factorization of 923, we can start by dividing it by the smallest prime numbers and continue dividing until we obtain a quotient of 1.
+
+923 is not divisible by 2, as it is an odd number.
+
+Dividing 923 by 3, we get: 923 ÷ 3 = 307.67
+
+Since the result is not a whole number, we move on to the next prime number.
+
+Dividing 923 by 5, we get: 923 ÷ 5 = 184.6
+
+Again, the result is not a whole number, so we continue.
+
+Dividing 923 by 7, we get: 923 ÷ 7 = 131.86
+
+Once more, the result is not a whole number.
+
+Dividing 923 by 11, we get: 923 ÷ 11 = 83.909
+
+The quotient is still not a whole number.
+
+Dividing 923 by 13, we get: 923 ÷ 13 = 71
+
+Finally, we have obtained a whole number as the quotient.
+
+Therefore, the prime factorization of 923 is 13 × 71.
+
+Since 923 has factors other than 1 and itself (namely, 13 and 71), it is a composite number.
+###
+Yes, 923 is divisible by 13.
+###
+No.
+###
+No, 667 is not a prime number. It is divisible by 23 and 29.
+###
+To determine if a number is prime, we can start by checking for any factors other than 1 and itself.
+
+For 667, we can look for factors up to the square root of 667, which is approximately 25.8.
+
+Dividing 667 by numbers from 2 to 25, we find that 667 can be evenly divided by 23. Specifically:
+
+667 ÷ 23 = 29
+
+Since 23 is a factor of 667, we conclude that 667 is not a prime number.
+###
+Yes, 667 is a composite number.
+###
+To determine if 667 is a composite number, we need to check if it can be divided by any numbers other than 1 and itself.
+
+First, we'll check if it is divisible by 2. The last digit of 667 is odd, so it is not divisible by 2.
+
+Next, we'll check if it is divisible by 3. The sum of its digits is 6 + 6 + 7 = 19, which is not divisible by 3.
+
+Now, let's check for divisibility by numbers greater than 3 up to the square root of 667. The square root of 667 is approximately 25.81, so we only need to check for divisibility by prime numbers up to 25.
+
+We find that 667 is not divisible by any prime numbers less than or equal to 25.
+
+Since 667 cannot be divided by any numbers other than 1 and itself, it is not a composite number.
+
+Therefore, 667 is a prime number.
+###
+Yes.
+###
+Yes
+###
+No, 671 is not a prime number. It can be divided evenly by 11 and 61.
+###
+To determine if 671 is a prime number, we need to check if it is divisible by any number other than 1 and itself.
+
+Let's check if it is divisible by 2: 671 ÷ 2 = 335.5.
+Since the result is not a whole number, 671 is not divisible by 2.
+
+Next, let's check if it is divisible by 3: 671 ÷ 3 = 223.6.
+Again, the result is not a whole number, so 671 is not divisible by 3.
+
+Now, let's check if it is divisible by 5: 671 ÷ 5 = 134.2.
+Once again, the result is not a whole number, so 671 is not divisible by 5.
+
+Lastly, let's check if it is divisible by 7: 671 ÷ 7 = 95.8571.
+As the result is not a whole number, 671 is not divisible by 7.
+
+Since we have checked all relevant numbers up to the square root of 671, we can conclude that 671 is a prime number because it is not divisible by any number other than 1 and itself.
+###
+Yes, 671 is a composite number. It has factors other than 1 and itself, such as 11 and 61.
+###
+Yes, 671 is a composite number.
+
+To determine whether a number is composite, we need to check if it has any factors other than 1 and itself.
+
+To find the factors of 671, we can divide it by prime numbers starting from 2 and going up to the square root of the number.
+
+If we divide 671 by 2, we get a quotient of 335.5, which is not an integer. Similarly, if we divide 671 by 3, 4, 5, or any other prime number, we would not obtain an integer quotient.
+
+However, when we divide 671 by 11, we get a quotient of 61, which is an integer. Therefore, 11 is a factor of 671.
+
+Thus, 671 has at least two factors, 1 and 11, besides itself. Therefore, it is composite.
+###
+No.
+###
+Yes.
+###
+No, 799 is not a prime number. It is divisible by 13 and 61.
+###
+To determine if 799 is a prime number, we will check if it is divisible by any numbers other than 1 and itself.
+
+If a number is divisible by any number other than 1 and itself, it is not a prime number.
+
+To do this, we can check if 799 is divisible by any numbers between 2 and the square root of 799 (rounded down).
+
+The square root of 799 is approximately 28.2743. 
+
+Now we will check if 799 is divisible by any numbers between 2 and 28.
+
+Upon checking, we find that 799 is divisible by 1, 19, and 799.
+
+Since 799 is divisible by 1 and itself, but not by any other numbers between 2 and 28, we can conclude that 799 is not a prime number.
+
+Therefore, 799 is not a prime number.
+###
+Yes, 799 is a composite number. A composite number is a positive integer greater than 1 that has at least one divisor other than 1 and itself. In the case of 799, it can be divided by 1, 7, 19, and 799, making it composite.
+###
+To determine whether 799 is a composite number, we need to check if it has any factors other than 1 and itself.
+
+To do this, we can try dividing 799 by different numbers and see if any of them divide evenly without a remainder. We can start with 2 since it is the smallest prime number.
+
+799 ÷ 2 = 399 with a remainder of 1
+799 ÷ 3 = 266.33 (not an integer)
+799 ÷ 4 = 199.75 (not an integer)
+799 ÷ 5 = 159.8 (not an integer)
+
+Continuing this process with 6, 7, 8, 9, and so on, we find that there are no factors other than 1 and 799 that divide evenly into 799.
+
+Therefore, we can conclude that 799 is not divisible by any integers other than 1 and itself. Therefore, 799 is a prime number, not a composite number.
+###
+Yes.
+###
+No.
+###
+No, 803 is not a prime number. It can be divided evenly by 1, 11, 73, and 803.
+###
+To determine if 803 is a prime number, we need to check if it has any factors other than 1 and itself.
+
+To do this, we can start by finding the smallest whole number greater than 1 that divides 803. We can try dividing it by 2:
+
+803 ÷ 2 = 401.5
+
+Since dividing by 2 results in a decimal, we can conclude that 2 is not a factor of 803.
+
+Next, we can try dividing 803 by 3:
+
+803 ÷ 3 = 267.67
+
+Once again, dividing by 3 results in a decimal, indicating that 3 is not a factor.
+
+We can continue this process by checking division with higher numbers, but it is important to note that we only need to check up until the square root of 803.
+
+The square root of 803 is approximately 28.35, so we can check divisibility up to 28.
+
+Upon checking for divisibility with numbers up to 28, we find that 803 is not divisible by any of them.
+
+Therefore, we can conclude that 803 is a prime number since it has no factors other than 1 and itself.
+###
+Yes, 803 is a composite number.
+###
+To determine if 803 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+First, we can check if there are any factors between 2 and the square root of 803 (which is approximately 28). 
+
+Starting from 2, we try dividing 803 by each number up to 28 to see if any of them divide evenly into 803. 
+
+1) 803 ÷ 2 = 401.5 (not a whole number)
+2) 803 ÷ 3 = 267.666... (not a whole number)
+3) 803 ÷ 4 = 200.75 (not a whole number)
+4) 803 ÷ 5 = 160.6 (not a whole number)
+5) 803 ÷ 6 = 133.833... (not a whole number)
+...
+26) 803 ÷ 26 = 30.884... (not a whole number)
+27) 803 ÷ 27 = 29.814... (not a whole number)
+28) 803 ÷ 28 = 28.678... (not a whole number)
+
+Since none of these divisions result in whole numbers, we can conclude that 803 does not have any factors (other than 1 and itself), making it a prime number, not a composite number.
+###
+No.
+###
+No.
+###
+No, 551 is not a prime number. It is divisible by 1, 7, 79, and 551.
+###
+To determine if 551 is a prime number, let's factorize it by dividing it by prime numbers until we find a factor.
+
+Starting with 2, we can see that 551 is an odd number, so it's not divisible by 2.
+
+Next, we try dividing by 3: 551 ÷ 3 = 183 remainder 2.
+
+Trying 4, we see that 551 is not divisible by 4.
+
+Continuing this process, we eventually find that 551 ÷ 19 = 29.
+
+So, 551 is not a prime number since it can be divided by 19 without leaving a remainder.
+
+Therefore, 551 is not a prime number.
+###
+Yes, 551 is a composite number.
+###
+To determine if a number is composite or not, we need to check if it has any factors other than 1 and itself. 
+
+First, let's check if 551 is divisible by any prime numbers less than its square root. The square root of 551 is approximately 23.46, so we only need to check prime numbers up to 23.
+
+If we divide 551 by 2, we get 275.5, which is not a whole number.
+If we divide 551 by 3, we get 183.666..., which is not a whole number.
+If we divide 551 by 5, we get 110.2, which is not a whole number.
+If we divide 551 by 7, we get 78.714..., which is not a whole number.
+If we divide 551 by 11, we get 50.090..., which is not a whole number.
+If we divide 551 by 13, we get 42.384..., which is not a whole number.
+If we divide 551 by 17, we get 32.529..., which is not a whole number.
+If we divide 551 by 19, we get 29, which is a whole number.
+
+Therefore, 551 has a factor of 19, and since 19 is not equal to 1 or 551, we can conclude that 551 is a composite number.
+###
+No.
+###
+No.
+###
+No, 299 is not a prime number. It is divisible by 13 and 23.
+###
+To determine if 299 is a prime number, we can check if it is divisible by any prime numbers less than its square root (rounded up to the nearest whole number). 
+
+The square root of 299 is approximately 17.3 (rounded up to 18). 
+
+Now, we will check if 299 is divisible by any prime numbers less than 18. 
+
+Starting with the smallest prime number, 2, we check if 299 is divisible by 2. However, 299 is not divisible by 2, as it is an odd number. 
+
+We move on to the next prime number, 3. Again, 299 is not divisible by 3, as the sum of its digits is 2 + 9 + 9 = 20, which is not divisible by 3. 
+
+Continuing on, we check if 299 is divisible by 5, but it is not divisible by 5 either. 
+
+Lastly, we check if 299 is divisible by 7. However, we find that 299 is not divisible by 7. 
+
+Since we have checked all prime numbers less than 18 and found no divisors for 299, we can conclude that 299 is a prime number.
+###
+Yes, 299 is a composite number because it has divisors other than 1 and itself. The prime factorization of 299 is 13 * 23.
+###
+To determine if a number is composite or not, we need to check if it has divisors other than 1 and itself. 
+
+To start, we can look for factors up to the square root of 299, which is approximately 17.32. 
+
+Upon checking the potential factors, we can observe that 299 is divisible by 13. 
+
+Thus, we have found at least one factor other than 1 and 299, making it a composite number.
+###
+Yes.
+###
+Yes
+###
+No, 559 is not a prime number.
+###
+To determine if 559 is a prime number, we need to check if it is divisible by any number other than 1 and itself. We can do this by checking if it is divisible by any prime numbers that are less than its square root.
+
+The square root of 559 is approximately 23.66.
+
+Now, we'll check if 559 is divisible by any prime numbers less than 23.
+
+Starting with 2, we find that 559 ÷ 2 = 279.5, which is not a whole number. So, 559 is not divisible by 2.
+
+Moving on to 3, we find that 559 ÷ 3 = 186.33, which is not a whole number. Thus, 559 is not divisible by 3.
+
+Continuing this process, we check the next few prime numbers: 5, 7, 11, and 13. None of them divide evenly into 559.
+
+Next, we try 17. We find that 559 ÷ 17 = 32.882, which is not a whole number. So, 559 is not divisible by 17.
+
+Finally, we try 19. We find that 559 ÷ 19 = 29.421, which is not a whole number. Hence, 559 is also not divisible by 19.
+
+Since we have checked all prime numbers less than the square root of 559 and found no divisors other than 1 and 559 itself, we can conclude that 559 is a prime number.
+###
+Yes, 559 is a composite number.
+###
+To determine if 559 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+First, let's find the factors of 559 by dividing it by all the numbers starting from 2 up to its square root, which is approximately 23.65.
+
+By checking each number, we find that 559 is divisible by 13 with a quotient of 43. 
+
+So, 559 is not only divisible by 1 and itself, but also by 13 and 43. 
+
+Since 559 has factors other than 1 and itself, it is a composite number.
+###
+Yes
+###
+Yes
+###
+No.
+###
+To determine if 943 is a prime number, we need to check if it is divisible by any number other than 1 and itself. 
+
+First, let's check if 943 is divisible by 2. If it is, then it is not a prime number. But, 943 is an odd number, so it is not divisible by 2.
+
+Next, we can check if 943 is divisible by 3. To do this, we can add up the digits of 943: 9 + 4 + 3 = 16. Since 16 is not divisible by 3, 943 is also not divisible by 3.
+
+Now, let's check if 943 is divisible by 5. If a number ends in 5 or 0, it is divisible by 5. Since 943 does not end in 5 or 0, it is not divisible by 5.
+
+Continuing, let's check if 943 is divisible by 7. We can use a similar method as we did with 3 by adding up the digits: 9 + 4 + 3 = 16. Since 16 is not divisible by 7, 943 is also not divisible by 7.
+
+We can continue this process for larger prime numbers, but since 943 is not divisible by 2, 3, 5, or 7, it is unlikely to be divisible by any larger prime numbers.
+
+Therefore, we can conclude that 943 is a prime number.
+###
+Yes, 943 is a composite number. It can be evenly divided by 1, 13, 23, and 943.
+###
+To determine if a number is composite, we need to check if it is divisible by any number other than 1 and itself. 
+
+For 943, we can begin by checking its divisibility by prime numbers less than or equal to its square root, that is, numbers up to 31. 
+
+Starting with 2, we find that 943 is not divisible by 2. 
+
+Moving on to 3, we find that 943 is not divisible by 3. 
+
+Continuing this process, we find that 943 is not divisible by any prime numbers less than or equal to its square root. 
+
+Therefore, 943 is a prime number and not composite.
+###
+No.
+###
+Yes, 943 is divisible by 41.
+###
+No, 689 is not a prime number. It can be divided evenly by 7 and 98.
+###
+To check if a number is prime, we need to determine if it is divisible only by 1 and itself.
+
+To start, we can check if 689 is divisible by 2. If it is, then it is not a prime number.
+
+689 is not divisible by 2 because it is an odd number.
+
+Next, we can check if 689 is divisible by any odd numbers up to the square root of 689, which is approximately 26.2.
+
+689 is not divisible by 3, 5, 7, 11, 13, 17, 19, 23, or 29.
+
+Since we have checked all the odd numbers up to the square root of 689 and found that none of them divide 689 evenly, we can conclude that 689 is a prime number.
+
+Therefore, 689 is a prime number.
+###
+Yes, 689 is a composite number. A composite number is any positive integer that has at least one divisor other than 1 and itself. In the case of 689, it is divisible by 13 and 53 in addition to 1 and 689.
+###
+To determine if a number is composite, we need to check if it has any factors other than 1 and itself. 
+
+To do this, we can start by finding the prime factors of 689. We divide 689 by the smallest prime numbers, starting with 2:
+
+689 ÷ 2 = 344 remainder 1
+
+689 is not divisible by 2, so we continue with the next prime number, which is 3:
+
+689 ÷ 3 = 229 remainder 2
+
+689 is not divisible by 3 either, so we move on to the next prime number, 5:
+
+689 ÷ 5 = 137 remainder 4
+
+Again, 689 is not divisible by 5. We continue this process until we reach a prime number that is greater than the square root of 689. 
+
+However, we can see that at this point, we have already checked the prime numbers 2, 3, 5, 7, 11, 13, 17, 19, 23, and so on up to 29, and none of them divide 689 exactly. 
+
+Therefore, we can conclude that 689 does not have any factors other than 1 and itself. 
+
+Hence, 689 is a prime number, not a composite number.
+###
+Yes.
+###
+No.
+###
+No, 817 is not a prime number. It can be divided evenly by 7 and 17, among other factors.
+###
+To determine if 817 is a prime number, we can check if it has any factors other than 1 and itself. 
+
+First, we can check if 817 is divisible by 2. Since 817 is an odd number, it is not divisible by 2.
+
+Next, we can check if it is divisible by any odd numbers up to its square root, which is approximately 28.6. We divide 817 by each odd number from 3 to 29.
+
+By performing the division calculations, we find that none of these odd numbers divide 817 without leaving a remainder. Therefore, 817 is not divisible by any numbers other than 1 and itself.
+
+Therefore, we can conclude that 817 is a prime number, as it has no factors other than 1 and itself.
+###
+Yes, 817 is a composite number.
+###
+To determine if 817 is a composite number, we need to check if it has any divisors other than 1 and itself.
+
+Step 1: Check if 817 is divisible by 2.
+If the last digit of 817 is even, then 817 is divisible by 2.
+The last digit of 817 is 7, which is odd.
+So, 817 is not divisible by 2.
+
+Step 2: Check if 817 is divisible by 3.
+To check if a number is divisible by 3, we add up the digits and see if the sum is divisible by 3.
+8 + 1 + 7 = 16. 16 is not divisible by 3.
+So, 817 is not divisible by 3.
+
+Step 3: Check if 817 is divisible by any other number between 4 and the square root of 817.
+Since the square root of 817 is approximately 28.58, we only need to check divisibility by numbers up to 28.
+
+Checking divisibility by numbers between 4 and 28:
+817 ÷ 4 = 204.25 (Not divisible)
+817 ÷ 5 = 163.4 (Not divisible)
+817 ÷ 6 = 136.16 (Not divisible)
+817 ÷ 7 = 116.71 (Not divisible)
+817 ÷ 8 = 102.125 (Not divisible)
+817 ÷ 9 = 90.78 (Not divisible)
+...
+817 ÷ 28 = 29.18 (Not divisible)
+
+Since none of the numbers between 4 and 28 divide evenly into 817, we can conclude that 817 is a prime number.
+
+Therefore, 817 is not a composite number.
+###
+No.
+###
+Yes.
+###
+No, 949 is not a prime number. It is divisible by several numbers including 1, 13, 73, and 949.
+###
+To determine if 949 is a prime number, we need to consider if it has any factors other than 1 and itself. 
+
+First, we can check if 2 is a factor. If we divide 949 by 2, we get 474.5, which is not a whole number. Therefore, 2 is not a factor of 949.
+
+Next, we can check if 3 is a factor. If we divide 949 by 3, we get 316.333, which is not a whole number. Therefore, 3 is not a factor of 949.
+
+Continuing this process, we can check if 4, 5, 6, and so on, up to the square root of 949, are factors. 
+
+Upon checking through this process, we find that 949 is divisible by 13. When we divide 949 by 13, we get 73, which is a whole number. Therefore, 949 is not a prime number since it has factors other than 1 and itself.
+###
+Yes, 949 is a composite number. It can be factored into the prime factors 7 x 11 x 13.
+###
+To determine whether 949 is a composite number, we need to check if it has any factors other than 1 and itself.
+
+To do this, we can start by finding the prime factors of 949.
+
+We can start by dividing 949 by the smallest prime number, which is 2. But 2 is not a factor of 949.
+
+Next, we can try dividing 949 by the next prime number, which is 3. 949 divided by 3 is approximately 316.33, which is not a whole number. Therefore, 3 is not a factor of 949.
+
+We can continue this process and try dividing 949 by 4, 5, 6, and so on. But as we try higher and higher numbers, we will realize that none of them are factors of 949.
+
+So, after checking all possible numbers, we can conclude that 949 does not have any factors other than 1 and itself. Therefore, it is not a composite number.
+
+In conclusion, 949 is not a composite number; it is a prime number.
+###
+Yes, 949 is divisible by 13 because 949 ÷ 13 = 73.
+###
+Yes
+###
+Yes, 437 is not a prime number. It is divisible by 19 and 23.
+###
+To determine if 437 is a prime number, we can check if it is divisible by any whole number other than 1 and itself.
+
+We can start by checking if it is divisible by 2. Since 437 is an odd number, it is not divisible by 2.
+
+We can also check if it is divisible by 3. The sum of its digits is 4 + 3 + 7 = 14, which is not divisible by 3. Hence, 437 is not divisible by 3.
+
+Next, we can check if it is divisible by 5. Since 437 does not end in either 0 or 5, it is not divisible by 5.
+
+Now, we can check if it is divisible by 7. Applying the divisibility rule for 7 (subtracting twice the last digit of a number from the rest of the number), we have 43 - 2(7) = 43 - 14 = 29, which is not divisible by 7.
+
+Therefore, we have determined that 437 is not divisible by any whole number other than 1 and itself. Therefore, 437 is a prime number.
+###
+Yes, 437 is a composite number.
+###
+To determine if 437 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+First, we start by finding the square root of 437. The square root of 437 is approximately 20.9.
+
+Then, we can check all the whole numbers from 2 up to the square root of 437 to see if any of them divide evenly into 437.
+
+If we check all the numbers from 2 to 20, we find that none of them divide evenly into 437. 
+
+So, we can conclude that 437 does not have any factors other than 1 and itself.
+
+Therefore, 437 is not a composite number.
+###
+No
+###
+Yes.
+###
+Yes, 697 is a prime number.
+###
+To determine if 697 is a prime number, we need to check if it is divisible by any number other than 1 and itself. We can do this by checking all the numbers up to the square root of 697. If we find any number that evenly divides 697, then it is not prime.
+
+Let's check:
+√697 is approximately 26.40.
+
+Now, we can check all the numbers from 2 to 26 if they divide 697 evenly:
+697 ÷ 2 = 348 remainder 1
+697 ÷ 3 = 232 remainder 1
+697 ÷ 4 = 174 remainder 1
+...
+697 ÷ 25 = 27 remainder 22
+
+By checking all the numbers up to the square root of 697, we find that 697 is not divisible evenly by any number other than 1 and itself.
+
+Therefore, 697 is a prime number.
+###
+Yes, 697 is a composite number.
+###
+To determine if 697 is a composite number, we need to check if it is divisible by any number other than 1 and itself.
+
+First, we can check if it is divisible by 2. The last digit of 697 is odd, so it is not divisible by 2.
+
+Next, we can check if it is divisible by 3. By adding the digits of 697 (6 + 9 + 7 = 22), we see that 697 is not divisible by 3.
+
+We can also check if it is divisible by 5. The last digit of 697 is not 0 or 5, so it is not divisible by 5.
+
+Continuing in this manner, we can check if it is divisible by 7. By applying the divisibility rule for 7 (subtract twice the last digit from the remaining digits), we get 69 - (2*7) = 69 - 14 = 55, which is divisible by 7. Therefore, 697 is divisible by 7.
+
+Therefore, 697 has factors other than 1 and itself, making it a composite number.
+
+Thus, 697 is a composite number.
+###
+No.
+###
+Yes.
+###
+No, 187 is not a prime number. It can be divided evenly by 11 and 17, in addition to 1 and itself.
+###
+To determine if 187 is a prime number, we need to check if it is divisible by any number other than 1 and itself.
+
+By performing the divisibility tests, we can see that 187 is divisible by 11, giving a quotient of 17. This means that 187 is not a prime number since it is divisible by 11.
+
+So, 187 is not a prime number.
+###
+Yes, 187 is a composite number.
+###
+To determine if 187 is a composite number, we need to check if it has factors other than 1 and itself. 
+
+First, we can check if 187 is divisible by any number between 2 and the square root of 187. The square root of 187 is approximately 13.674. Therefore, we only need to check if 187 is divisible by numbers from 2 to 13.
+
+Upon checking, we find that 187 is not divisible by 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, or 13. 
+
+Since we have checked all possible factors, and there are no divisors of 187 other than 1 and itself, we can conclude that 187 is not a composite number.
+###
+Yes.
+###
+No.
+###
+No, 319 is not a prime number. It is divisible by 11 and 29.
+###
+To determine if 319 is a prime number, we need to check if it has any factors other than 1 and itself. 
+
+To do this, we can try dividing 319 by primes numbers up to the square root of 319 (rounded up to the nearest whole number), which is approximately 18. 
+
+Let's check: 319 ÷ 2 = 159.5 (not a whole number)
+             319 ÷ 3 = 106.333 (not a whole number)
+             319 ÷ 4 = 79.75 (not a whole number)
+             319 ÷ 5 = 63.8 (not a whole number)
+             319 ÷ 6 = 53.167 (not a whole number)
+             319 ÷ 7 = 45.571 (not a whole number)
+             319 ÷ 8 = 39.875 (not a whole number)
+             319 ÷ 9 = 35.444 (not a whole number)
+             319 ÷ 10 = 31.9 (not a whole number)
+             319 ÷ 11 = 29 (whole number)
+
+Since 319 is divisible by 11 without leaving a remainder, it means 319 has factors other than 1 and itself. Therefore, 319 is not a prime number.
+###
+Yes, 319 is a composite number.
+###
+To determine if a number is composite or not, we need to check if it has any factors other than 1 and itself.
+
+First, we can check if 319 is divisible by any numbers from 2 to its square root, which is approximately 17.86 (rounded up to 18). 
+
+Upon checking, we find that 319 is not divisible by 2, 3, 5, 7, 11, 13, 17, or any other numbers between 2 and 18.
+
+Therefore, since 319 does not have any factors other than 1 and itself, we can conclude that it is a prime number.
+###
+Yes.
+###
+Yes.
+###
+No, 703 is not a prime number. It can be divided evenly by 1, 19, 37, and 703.
+###
+To determine if 703 is a prime number, we need to check if it is divisible by any numbers other than itself and 1. 
+
+First, we can check if it is divisible by 2. Since 703 is an odd number, it is not divisible by 2.
+
+Next, we can check if it is divisible by 3. By summing the digits of 703 (7 + 0 + 3 = 10) and checking if this sum is divisible by 3, we can determine if 703 is divisible by 3. However, since 10 is not divisible by 3, 703 is also not divisible by 3.
+
+We can continue this process for all prime numbers up to the square root of 703, which is approximately 26.47. 
+
+Alternatively, we can also use a calculator or a computer program to check if 703 has any factors other than itself and 1. Performing this calculation shows that 703 is divisible by 19 and 37.
+
+Therefore, 703 is not a prime number.
+###
+Yes, 703 is a composite number.
+###
+To determine if a number is composite, we need to check if it has any divisors other than 1 and itself.
+
+To find the divisors of 703, we'll start by dividing it by 2. If 703 is divisible by 2, then it is composite. Otherwise, we'll continue checking its divisors up to the square root of 703.
+
+Dividing 703 by 2, we get 351.5, which is not an integer. Therefore, 703 is not divisible by 2.
+
+Next, we'll check if 703 is divisible by 3. Summing up the digits of 703, we get 7 + 0 + 3 = 10. Since 10 is not divisible by 3, 703 is also not divisible by 3.
+
+Now, we'll check if 703 is divisible by 5. The last digit of 703 is 3, and 3 is not divisible by 5. Hence, 703 is not divisible by 5.
+
+Next, we'll check if 703 is divisible by 7. Dividing 703 by 7 gives us 100.428, which is not an integer. Hence, 703 is not divisible by 7.
+
+Continuing the process, we check divisibility up to the square root of 703. The square root of 703 is approximately 26.52. Since we have checked all the possible divisors, we can conclude that 703 is not divisible by any other numbers.
+
+Therefore, 703 does not have any divisors other than 1 and itself. Hence, 703 is not a composite number.
+
+In conclusion, 703 is not a composite number.
+###
+Yes.
+###
+Yes.
+###
+No, 451 is not a prime number. It is divisible by 11 and 41.
+###
+To determine if 451 is a prime number, we need to divide it by all numbers from 2 to its square root (rounded up to the nearest whole number). 
+
+The square root of 451 is approximately 21.24. So we'll divide 451 by numbers starting from 2 up to 21.
+
+451 ÷ 2 = 225.5
+451 ÷ 3 = 150.33
+451 ÷ 4 = 112.75
+451 ÷ 5 = 90.2
+451 ÷ 6 = 75.16
+451 ÷ 7 = 64.43
+451 ÷ 8 = 56.38
+451 ÷ 9 = 50.11
+451 ÷ 10 = 45.1
+451 ÷ 11 = 41
+451 ÷ 12 = 37.58
+451 ÷ 13 = 34.69
+451 ÷ 14 = 32.21
+451 ÷ 15 = 30.07
+451 ÷ 16 = 28.19
+451 ÷ 17 = 26.53
+451 ÷ 18 = 25.06
+451 ÷ 19 = 23.74
+451 ÷ 20 = 22.55
+451 ÷ 21 = 21.48
+
+We can see that none of the divisions result in whole numbers. This means that 451 is not divisible by any number from 2 to 21. Therefore, 451 is a prime number.
+###
+Yes, 451 is a composite number.
+###
+Yes, let's think step by step to determine if 451 is a composite number.
+
+To determine if a number is composite, we need to check if it has more than two distinct positive factors.
+
+First, we know that 451 is not divisible by 2, since it is not an even number.
+
+Next, we can try dividing 451 by prime numbers starting from 3. If a division results in a whole number, then both the divisor and the quotient are factors of the number.
+
+When we divide 451 by 3, we get 150 with a remainder of 1. 
+
+Continuing, we can try dividing 451 by 5, but we get a quotient of 90 with a remainder of 1.
+
+Next, we can try dividing by 7. When we divide 451 by 7, we get a quotient of 64 with a remainder of 3.
+
+Since we have checked prime numbers up to 7 and have not found any additional factors apart from 1 and 451 itself, we can conclude that 451 is a prime number.
+
+Therefore, 451 is not a composite number.
+###
+Yes, 451 is divisible by 11.
+###
+Yes.
+###
+No, 323 is not a prime number. It is divisible by 17 and 19.
+###
+To determine if a number is prime, we need to check if it has any factors other than 1 and itself.
+
+Starting with the number 323, we can check if it's divisible by any numbers between 2 and the square root of 323 (which is approximately 18). 
+
+Let's try dividing 323 by some numbers:
+
+- 323 ÷ 2 = 161.5 (not a whole number)
+- 323 ÷ 3 = 107.666... (not a whole number)
+- 323 ÷ 4 = 80.75 (not a whole number)
+- 323 ÷ 5 = 64.6 (not a whole number)
+- 323 ÷ 6 = 53.833... (not a whole number)
+- 323 ÷ 7 = 46.142... (not a whole number)
+- 323 ÷ 8 = 40.375 (not a whole number)
+- 323 ÷ 9 = 35.888... (not a whole number)
+- 323 ÷ 10 = 32.3 (not a whole number)
+- 323 ÷ 11 = 29.363... (not a whole number)
+- 323 ÷ 12 = 26.916... (not a whole number)
+- 323 ÷ 13 = 24.846... (not a whole number)
+- 323 ÷ 14 = 23.071... (not a whole number)
+- 323 ÷ 15 = 21.533... (not a whole number)
+- 323 ÷ 16 = 20.1875 (not a whole number)
+- 323 ÷ 17 = 19 (a whole number)
+
+We see that 323 is divisible by 17 without leaving a remainder, which means it has factors other than 1 and itself. Therefore, 323 is not a prime number.
+###
+Yes, 323 is a composite number.
+###
+To determine if 323 is a composite number, we need to check if it has any factors other than 1 and itself.
+
+To find the factors of 323, we can start by finding its square root, which is approximately 17.97.
+
+Now, let's check if there are any factors of 323 between 2 and 17.
+
+Starting with 2, 323 divided by 2 gives a quotient of 161 with a remainder of 1.
+Checking further, 323 divided by 3 gives a quotient of 107 with a remainder of 2.
+Checking further, 323 divided by 4 gives a quotient of 80 with a remainder of 3.
+
+Continuing this process, we find that there are no factors of 323 between 2 and 17.
+
+Since 323 does not have any factors other than 1 and itself, it is not a composite number. It is actually a prime number.
+###
+Yes
+###
+No
+###
+No, 583 is not a prime number. It is divisible by 7 and 83.
+###
+To determine if 583 is a prime number, we need to check if it is divisible by any number other than 1 and itself. 
+
+To do this, we can start by checking if it is divisible by 2. If it is, then it is not a prime number. 
+
+583 is an odd number, so it is not divisible by 2. 
+
+Next, we can check if it is divisible by any odd number up to its square root. 
+
+The square root of 583 is approximately 24.14, so we only need to check odd numbers up to 24. 
+
+Let's check if 583 is divisible by 3. 
+
+583 is not divisible by 3 since the sum of its digits (5 + 8 + 3 = 16) is not divisible by 3. 
+
+Next, we can check divisibility by 5. 
+
+583 does not end in 0 or 5, so it is not divisible by 5. 
+
+Now, let's check divisibility by 7. 
+
+583 is not divisible by 7 because when we subtract twice the last digit (3) from the number formed by the remaining digits (58), we get 52, which is not divisible by 7. 
+
+We continue this process for odd numbers 11, 13, 17, 19, 23, but we find that none of them divide 583.
+
+Therefore, the number 583 is a prime number.
+###
+Yes, 583 is a composite number.
+###
+To determine if a number is composite, we need to check if it has any factors other than 1 and itself. 
+
+Step 1: Factors of 583
+The factors of 583 are the numbers that divide 583 without leaving a remainder. To find the factors, we can start by dividing 583 by 2.
+583 ÷ 2 = 291.5 
+
+Since 291.5 is not a whole number, we can conclude that 2 is not a factor of 583. 
+
+Step 2: Continue searching for factors
+Next, we can try dividing 583 by 3.
+583 ÷ 3 = 194.33 
+
+Again, we obtain a non-whole number, indicating that 3 is not a factor of 583. 
+
+Step 3: Further investigation
+We can continue searching for potential factors by dividing 583 by higher numbers such as 4, 5, and so on. However, since 583 is quite large, we can also make use of the fact that any factor of a number can be at most half of the number itself. 
+
+Therefore, we only need to check up to half of 583, which is 291.5. None of the integers between 4 and 291 divide 583 without leaving a remainder. 
+
+Step 4: Conclusion
+After checking all possible factors, we can conclude that 583 does not have any factors other than 1 and itself. Therefore, it is not a composite number but rather a prime number.
+
+In conclusion, 583 is not a composite number.
+###
+No.
+###
+No.
+###
+Yes, 713 is a prime number.
+###
+To determine if 713 is a prime number, we can follow a step-by-step approach.
+
+1. Start by checking if the number is divisible by 2. Since 713 is an odd number (not divisible by 2), we move to the next step.
+
+2. Check if the number is divisible by any prime numbers up to the square root of 713. The square root of 713 is approximately 26.7. So, we need to check for divisors up to 26.
+
+3. Starting with the prime number 3, we divide 713 by 3. The result is not a whole number (not divisible), so we move on to the next prime number.
+
+4. Next, we try dividing 713 by 5. Again, the result is not a whole number.
+
+5. Continuing in this manner, we check division by 7, 11, 13, 17, 19, 23, and 29. In each case, the result is not a whole number.
+
+6. Finally, we reach the square root of 713, which is between 26 and 27. Since we haven't found any divisors up to this point, we can conclude that 713 is a prime number.
+
+Therefore, 713 is a prime number.
+###
+Yes, 713 is a composite number.
+###
+To determine if a number is composite, we need to check if it has any factors other than 1 and itself. One way to do this is to divide the number by all integers up to its square root and check if any of the divisions result in a remainder of 0.
+
+In the case of 713, we can start by dividing it by 2:
+
+713 ÷ 2 = 356.5
+
+Since the result is not an integer, 2 is not a factor of 713. We can continue dividing by other integers until we reach the square root of 713, which is approximately 26.7.
+
+Next, we divide by 3:
+
+713 ÷ 3 = 237.67
+
+Again, the result is not an integer. We continue dividing by higher integers, but realize that there are no other integer divisors between 3 and the square root of 713.
+
+Therefore, 713 does not have any factors other than 1 and itself. Thus, it is not divisible by any integers other than 1 and 713.
+
+As a result, we can conclude that 713 is a prime number, not a composite number.
+###
+Yes.
+###
+Yes.
+###
+No, 589 is not a prime number. It is divisible by 19 and 31.
+###
+To determine if 589 is a prime number, let's think step by step:
+
+1. Begin by checking if 589 is divisible by 2. Since 589 is an odd number, it is not divisible by 2.
+
+2. Next, check if 589 is divisible by any odd numbers up to its square root. The square root of 589 is approximately 24.29, so we only need to check for divisibility by odd numbers up to 23.
+
+3. Starting with 3, divide 589 by odd numbers up to 23. If any of these divisions result in a whole number, then 589 is not a prime number. However, if all divisions result in remainders, then 589 is a prime number.
+
+Checking the divisibility of 589 by odd numbers up to 23:
+
+589 ÷ 3 = 196 with a remainder of 5
+589 ÷ 5 = 117.8 with a remainder of 4
+589 ÷ 7 = 84.14 with a remainder of 11
+589 ÷ 9 = 65.44 with a remainder of 14
+589 ÷ 11 = 53.5 with a remainder of 6
+589 ÷ 13 = 45.3 with a remainder of 4
+589 ÷ 15 = 39.26 with a remainder of 14
+589 ÷ 17 = 34.65 with a remainder of 11
+589 ÷ 19 = 30.95 with a remainder of 14
+589 ÷ 21 = 28.05 with a remainder of 1
+589 ÷ 23 = 25.52 with a remainder of 14
+
+Since none of these divisions result in a whole number, 589 is a prime number.
+
+Therefore, 589 is a prime number.
+###
+Yes, 589 is a composite number.
+###
+To determine if a number is composite, you need to check if it has any factors other than 1 and itself. 
+
+To find the factors of 589, you can start by checking if any number from 2 to the square root of 589 evenly divides it. 
+
+The square root of 589 is approximately 24.27, so you can check the numbers from 2 to 24. 
+
+Upon checking, you will find that 589 is divisible by 19. Specifically, 589 divided by 19 equals 31. 
+
+Since 19 is a factor of 589 other than 1 and itself, we can conclude that 589 is a composite number.
+###
+Yes.
+###
+Yes
+###
+No, 209 is not a prime number. It can be divided evenly by 11 and 19, making it a composite number.
+###
+To determine whether 209 is a prime number or not, we need to check if it has any divisors other than 1 and itself. 
+
+The prime factors of 209 can be found by dividing it by prime numbers starting from 2. 
+
+Let's divide 209 by 2: 
+209 ÷ 2 = 104 with a remainder of 1
+
+Next, let's divide 209 by 3: 
+209 ÷ 3 = 69 with a remainder of 2
+
+We can continue dividing by prime numbers until we find a divisor. 
+
+Now, let's divide 209 by 5: 
+209 ÷ 5 = 41 with a remainder of 4
+
+And finally, let's divide 209 by 7: 
+209 ÷ 7 = 29 with no remainder 
+
+Since we have found a divisor of 209 (which is 7), it means that 209 is not a prime number.
+###
+Yes, 209 is a composite number. It can be divided evenly by 1, 11, 19, and 209.
+###
+To determine if 209 is a composite number, we should first understand what a composite number is. A composite number is any positive integer that has multiple factors other than 1 and itself. 
+
+To find the factors of 209, we can divide it by all positive integers less than or equal to its square root, which is approximately 14.456. 
+
+Upon dividing 209 by integers from 2 to 14, we find that it is divisible by 11 and 19. Thus, the factors of 209 are 1, 11, 19, and 209. 
+
+Since 209 has factors other than 1 and itself, it is indeed a composite number.
+###
+No.
+###
+Yes.
+###
+No, 979 is not a prime number. It can be factored as 11 x 89.
+###
+To determine if 979 is a prime number, we can check for any factors of 979 other than 1 and itself. 
+
+To do this, we can try dividing 979 by all the numbers from 2 up to the square root of 979 (rounded up to the nearest whole number). 
+
+The square root of 979 is approximately 31.31, so we can check for divisibility by numbers 2, 3, 4, ..., up to 31. 
+
+On dividing 979 by these numbers, we find that it is divisible by 17, which gives a quotient of 57.47. 
+
+Therefore, 979 is not a prime number as it has factors other than 1 and itself.
+###
+Yes, 979 is a composite number.
+###
+To determine whether 979 is a composite number, we need to check if it is divisible by any number other than 1 and itself. 
+
+First, let's check if it is divisible by 2. If a number is divisible by 2, it means it is even. However, 979 is not divisible by 2 because the last digit, 9, is an odd number.
+
+Next, let's check if it is divisible by any odd numbers up to the square root of 979. The square root of 979 is approximately 31.29. We can try dividing 979 by odd numbers starting from 3, 5, 7, and so on up to 31.
+
+By performing these divisions, we observe that 979 is not evenly divisible by any of these numbers. Thus, we can conclude that 979 does not have any factors other than 1 and itself.
+
+Therefore, 979 is a prime number, not a composite number.
+###
+Yes.
+###
+No.
+###
+No, 851 is not a prime number.
+###
+To determine if 851 is a prime number, we need to check if it has any divisors other than 1 and itself. 
+
+We can start by dividing 851 by prime numbers, such as 2, 3, 5, 7, 11, and so on. 
+If we divide 851 by 2, we get a quotient of 425.5, which is not a whole number. Therefore, 2 is not a factor of 851.
+
+Similarly, if we divide 851 by 3, we get a quotient of 283.6667, which is not a whole number. Hence, 3 is also not a factor of 851.
+
+We can continue checking with other prime numbers, but by observing that 851 is an odd number, we can also try dividing it by odd numbers greater than 3. 
+If we divide 851 by 5, we get a quotient of 170.2, which is not a whole number. Thus, 5 is not a factor of 851.
+
+Continuing this process, we find that 851 is also not divisible by 7, 11, or any other prime numbers.
+
+Therefore, we conclude that 851 is a prime number since it does not have any divisors other than 1 and itself.
+###
+Yes, 851 is a composite number.
+###
+To determine if 851 is a composite number, we need to check if it has any factors other than 1 and itself.
+
+To start, let's find the square root of 851, which is approximately 29.18. 
+
+Next, we'll check if 851 is divisible by any numbers up to 29. We find that 851 is divisible by 23, which gives us 37 as the quotient. 
+
+Since 23 is a factor of 851 and it is not equal to 1 or 851, we can conclude that 851 is a composite number.
+###
+Yes. 851 is divisible by 23.
+###
+Yes.
+###
+Yes, 341 is not a prime number.
+###
+To determine if 341 is a prime number, we first check if it's divisible by any number other than 1 and itself. We start by dividing it by 2, but 341 is not divisible by 2 because it's an odd number. 
+
+Next, we check division by odd numbers starting from 3. When dividing 341 by 3, we find that it is not divisible evenly since 341 divided by 3 equals 113 remainder 2.
+
+We continue this process by checking division with odd numbers up to the square root of 341, which is approximately 18.44. We find that 341 is not divisible evenly by any other odd number up to 18.
+
+Therefore, we can conclude that 341 is not a prime number because it is divisible by 11. 341 divided by 11 equals 31, which is an integer.
+###
+341 is a composite number.
+###
+To determine if a number is composite or not, we need to analyze its factors. A composite number is a positive integer greater than 1 that has more than two distinct positive divisors.
+
+To find the factors of 341, we can start by dividing it by the smallest prime numbers: 2, 3, 5, 7, etc. 
+However, we notice that 341 is not divisible by 2, 3, or any of the small primes.
+
+Next, we can try dividing it by larger prime numbers. The next prime number to consider is 11. If we divide 341 by 11, we get 31 as the quotient, with no remainder. 
+This means that 341 can be divided evenly by 11.
+
+So, the factors of 341 are 1, 11, 31, and 341. Since it has more than two distinct positive divisors (1, 11, 31, and 341), 341 is a composite number.
+###
+Yes.
+###
+No.
+###
+No, 473 is not a prime number. It can be divided evenly by 11 and 43, among other factors.
+###
+To determine if 473 is a prime number, we can follow these steps:
+
+1. Check for divisibility by 2: 473 is not divisible by 2, since it is an odd number.
+
+2. Check for divisibility by odd numbers up to the square root of 473: The square root of 473 is approximately 21.747. Checking divisibility by prime numbers up to 21, we find that 473 is not divisible by any of them.
+
+3. Therefore, we can conclude that 473 is a prime number, as it is not divisible by any other numbers besides 1 and itself.
+
+So, yes, 473 is a prime number.
+###
+Yes, 473 is a composite number.
+###
+To determine if 473 is a composite number, we need to check if it has any factors other than 1 and itself.
+
+We can start by checking if 473 is divisible by any prime numbers. We can divide 473 by 2 and see if it gives us a whole number:
+
+473 ÷ 2 = 236.5
+
+Since 236.5 is not a whole number, 473 is not divisible by 2. 
+
+Next, we can divide 473 by 3:
+
+473 ÷ 3 = 157.67
+
+Since 157.67 is not a whole number, 473 is also not divisible by 3.
+
+We continue this process and check if 473 is divisible by 4, 5, 6, and so on, up to its square root, which is approximately 21.74.
+
+By checking all the numbers up to 21.74, we do not find any other factors of 473. Therefore, 473 is not divisible by any numbers other than 1 and itself.
+
+Since 473 does not have any factors other than 1 and itself, it is not a composite number. It is a prime number.
+###
+No.
+###
+Yes
+###
+Yes, 731 is a prime number.
+###
+To determine if 731 is a prime number, we need to test if it is divisible by any numbers other than itself and 1. 
+
+We know that 731 is not divisible by 2 because it is an odd number (ends in 1, 3, 5, 7, or 9). 
+
+Next, we can check if it is divisible by any odd numbers up to the square root of 731. The square root of 731 is approximately 27. Year51735 to 27, there are no odd numbers that evenly divide 731. 
+
+Therefore, we can conclude that 731 is a prime number as it is only divisible by 1 and itself.
+###
+No, 731 is not a composite number. It is a prime number.
+###
+To determine if 731 is a composite number, we need to check if it can be divided evenly by any number other than 1 and itself. We can start by checking all the numbers less than or equal to its square root, which is approximately 27.
+
+We can check if 731 is divisible by any number from 2 to 27 to see if it has any divisors. If it is divisible by any of these numbers, then it is a composite number.
+
+Checking 731 divided by 2 gives a quotient of 365.5, which is not an integer. 
+
+Similarly, checking 731 divided by 3 gives a quotient of 243.67.
+
+Continuing this process for all numbers between 2 and 27, we find that 731 is not divisible by any of them.
+
+Since we have checked all possible divisors up to the square root of 731 and found no divisors other than 1 and itself, we can conclude that 731 is a prime number, not a composite number.
+
+So, 731 is not a composite number.
+###
+Yes.
+###
+Yes.
+###
+No. 221 is not a prime number. It is divisible by 13 and 17.
+###
+To determine if 221 is a prime number, we need to check if it is divisible by any number other than 1 and itself.
+
+Let's start by checking if it is divisible by 2. If 221 is divisible by 2, then it is not a prime number. However, 221 is an odd number, and odd numbers are not divisible by 2.
+
+Next, let's check if it is divisible by any odd number up to the square root of 221. The square root of 221 is approximately 14.87. We can check divisibility by odd numbers up to 14.
+
+221 is not divisible by 3, 5, 7, 9, 11, 13.
+
+Therefore, we can conclude that 221 is a prime number as it is not divisible by any number other than 1 and itself.
+###
+Yes, 221 is a composite number because it can be divided evenly by numbers other than 1 and itself.
+###
+To determine if 221 is a composite number, we need to see if it can be divided evenly by any number other than 1 and itself.
+
+Starting with the number 2, we can check if 221 divided by 2 is a whole number. If it is, then we know that 221 is composite.
+
+So, let's divide 221 by 2:
+
+221 ÷ 2 = 110.5
+
+Since the result is not a whole number, we can conclude that 221 is not divisible evenly by 2.
+
+Next, we can try dividing 221 by 3, another prime number:
+
+221 ÷ 3 = 73.6667
+
+Again, the result is not a whole number. 
+
+Continuing this process, we would check division by all prime numbers less than the square root of 221. However, we will stop here since we can already conclude that 221 is not evenly divisible by any number other than 1 and itself. 
+
+Therefore, we can state that 221 is not a composite number.
+###
+Yes.
+###
+Yes
+###
+No, 989 is not a prime number. It can be divided evenly by factors other than 1 and itself, such as 23 and 43.
+###
+To determine if 989 is a prime number, we need to check if it has any factors other than 1 and itself. 
+
+First, we can check if it is divisible by 2. Since 989 is an odd number, it is not divisible by 2.
+
+Next, we can check if it is divisible by any odd numbers up to the square root of 989, which is approximately 31.4. 
+
+Starting with 3, we can perform the division 989 ÷ 3 = 329.6666... Since the result is not an integer, 989 is not divisible by 3.
+
+We can continue checking divisibility by the prime numbers up to the square root of 989: 5, 7, 11, 13, 17, 19, 23, 29, and 31. 
+
+By testing each of these numbers, we find that 989 is not divisible by any of them.
+
+Therefore, 989 does not have any factors other than 1 and itself, so it is a prime number.
+###
+Yes, 989 is a composite number.
+###
+To determine if a number is composite or not, we need to check if it has any factors other than 1 and itself. 
+
+To do that, we can start by finding the prime factorization of 989. 
+
+First, we check if it is divisible by 2. If we divide 989 by 2, we get 494 remainder 1. Since 989 is odd, it is not divisible by 2. 
+
+Next, we can check if it is divisible by 3. The sum of the digits of 989 is 9 + 8 + 9 = 26, which is not divisible by 3. Therefore, 989 is not divisible by 3. 
+
+We can proceed similarly by checking divisibility by prime numbers higher than 3, but it is evident that 989 is not divisible by 5, 7, or any other prime numbers up to the square root of 989. 
+
+Hence, we can conclude that 989 is a prime number, not composite.
+###
+No.
+###
+No.
+###
+No, 737 is not a prime number. It is divisible by 11 and 67.
+###
+To determine whether 737 is a prime number, we can follow a step-by-step approach.
+
+1. Check for divisibility by small prime numbers: 
+We can check if 737 is divisible by 2, 3, 5, and 7. If it is divisible by any of these numbers, then it is not prime. 
+
+737 is not divisible by 2 because it is an odd number.
+737 is not divisible by 3 because its digits sum up to 17, which is not divisible by 3.
+737 is not divisible by 5 because it does not end in 0 or 5.
+737 is not divisible by 7 because there is no evident pattern of division by 7.
+
+2. Check for divisibility by other numbers:
+We can continue to divide 737 by numbers greater than 7, but it is sufficient to check divisibility up to the square root of 737 (approximately 27.11). If there are no divisors up to the square root, then 737 is prime.
+
+Dividing 737 by numbers from 8 to 27, there are no whole number results, indicating that 737 is not divisible by any number within that range.
+
+Therefore, we can conclude that 737 is a prime number.
+###
+Yes, 737 is a composite number.
+###
+To determine if 737 is a composite number, we need to check if it has any factors other than 1 and itself.
+
+We can start by dividing 737 by some prime numbers like 2, 3, 5, 7, and so on.
+
+737 ÷ 2 = 368.5 (not a whole number)
+737 ÷ 3 = 245.666... (not a whole number)
+737 ÷ 5 = 147.4 (not a whole number)
+737 ÷ 7 = 105.2857... (not a whole number)
+
+Taking the division process further, we can see that there are no other integer factors of 737. Hence, 737 is not divisible by any number other than 1 and itself.
+
+Therefore, we can conclude that 737 is a prime number, not a composite number.
+###
+Yes.
+###
+No, 737 is not divisible by 67.
+###
+No, 481 is not a prime number. It can be divided evenly by 13 and 37.
+###
+To determine if 481 is a prime number, we need to check if it is divisible by any number other than 1 and itself. 
+
+First, we can check if it is divisible by 2. Since 481 is not an even number, it is not divisible by 2.
+
+Next, we can check divisibility by odd numbers up to the square root of 481. The square root of 481 is approximately 21.93. 
+
+Proceeding to check divisibility by odd numbers from 3 to 21 (the largest whole number less than the square root of 481), we find that 481 is not divisible by any of these numbers.
+
+Hence, we can conclude that 481 is a prime number as it is not divisible by any number other than 1 and itself.
+###
+Yes, 481 is a composite number.
+###
+To determine if 481 is a composite number, we need to check if it has any factors other than 1 and itself.
+
+First, we can find the square root of 481, which is approximately 21.93. We only need to check for factors up to this value.
+
+Now, let's check for factors of 481:
+
+1 is a factor of 481 since it divides it evenly.
+481 divided by 1 equals 481.
+
+We can also check other factors by dividing 481 by increasing numbers:
+
+2 is not a factor of 481 since 481 divided by 2 is not an integer.
+3 is not a factor of 481 since 481 divided by 3 is not an integer.
+
+We can continue checking for factors, but we can notice that 481 is not divisible evenly by any number other than 1 and itself.
+
+Therefore, 481 is not a composite number because it cannot be expressed as a product of two smaller, positive integers. Instead, it is a prime number.
+###
+Yes.
+###
+No.
+###
+No, 611 is not a prime number. It can be divided evenly by 13 and 47.
+###
+To determine if 611 is a prime number, we need to check if it is divisible by any number other than 1 and itself. 
+
+First, we check for divisibility by 2. Since 611 is an odd number, it is not divisible by 2.
+
+Next, we check for divisibility by 3. To do this, we sum up the digits of 611: 6 + 1 + 1 = 8. Since 8 is not divisible by 3, 611 is not divisible by 3.
+
+Now, we check for divisibility by numbers greater than 3. We can use trial division to check for divisibility by prime numbers up to the square root of 611. The square root of 611 is approximately 24.7.
+
+Testing divisibility by 5, we note that 611 does not end in 0 or 5, so it is not divisible by 5.
+
+Continuing to check for divisibility by prime numbers, we try dividing by 7. After performing the division, we find that 611 is not divisible by 7.
+
+We can continue checking for divisibility by prime numbers up to 24, but it is not necessary since we have already determined that 611 is not divisible by 2, 3, 5, and 7.
+
+Therefore, we can conclude that 611 is a prime number.
+###
+Yes, 611 is a composite number.
+###
+To determine whether 611 is a composite number, we need to find its factors. 
+
+First, we can check if it is divisible by 2. Since 611 is an odd number, it is not divisible by 2.
+
+Next, we can check if it is divisible by 3. Adding the digits of 611, we get 6 + 1 + 1 = 8. Since 8 is not divisible by 3, 611 is not divisible by 3.
+
+Now, we can check if it is divisible by any other prime numbers up to the square root of 611, which is approximately 24.7.
+
+Looking for prime numbers less than 24.7:
+- 5: 611 ÷ 5 = 122 remainder 1
+- 7: 611 ÷ 7 = 87 remainder 2
+- 11: 611 ÷ 11 = 55 remainder 6
+- 13: 611 ÷ 13 = 47 remainder 0
+
+Since 611 is divisible by 13 without a remainder, it means that 611 is a composite number.
+###
+No.
+###
+No.
+###
+No, 869 is not a prime number because it is divisible by 17 and 53.
+###
+To determine if 869 is a prime number or not, we can follow a step-by-step process. 
+
+First, we can check if 869 is divisible by any prime numbers less than its square root. The square root of 869 is approximately 29.47, so we only need to check prime numbers up to 29. 
+
+Next, we check if 869 is divisible by 2, 3, 5, 7, 11, 13, 17, 19, 23, and 29. 
+
+- 869 is not divisible by 2 (since it's not even).
+- 869 is not divisible by 3 (8 + 6 + 9 = 23, which is not divisible by 3).
+- 869 is not divisible by 5 (it doesn't end in 0 or 5).
+- 869 is not divisible by 7 (91 * 9 = 819, which is less than 869).
+- 869 is not divisible by 11 (80 - 69 = 11, which is not divisible by 11).
+- 869 is not divisible by 13 (13 * 66 = 858, which is less than 869).
+- 869 is not divisible by 17 (17 * 51 = 867, which is less than 869).
+- 869 is not divisible by 19 (19 * 45 = 855, which is less than 869).
+- 869 is not divisible by 23 (23 * 37 = 851, which is less than 869).
+- 869 is not divisible by 29 (29 * 29 = 841, which is less than 869).
+
+Since none of the prime numbers up to 29 divide evenly into 869, we can conclude that 869 is a prime number.
+###
+Yes, 869 is a composite number.
+###
+To determine if 869 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+Let's begin by checking if 869 is divisible by 2. If it is divisible by 2, then it cannot be prime, and hence composite.
+
+869 divided by 2 is 434 with a remainder of 1.
+
+Since 869 is not divisible by 2, let's check if it is divisible by the next prime number, which is 3.
+
+869 divided by 3 is 289 with a remainder of 2.
+
+Again, 869 is not divisible by 3. 
+
+Let's continue checking divisibility by prime numbers. 
+
+869 divided by 5 is 173 with a remainder of 4.
+
+869 divided by 7 is 124 with a remainder of 1.
+
+869 divided by 11 is 79 with a remainder of 0.
+
+869 divided by 13 is 66 with a remainder of 1.
+
+869 divided by 17 is 51 with a remainder of 2.
+
+869 divided by 19 is 45 with a remainder of 14.
+
+We can stop here because we have checked divisibility by prime numbers up to the square root of 869 (which is approximately 29.5).
+
+Since 869 has multiple factors other than 1 and itself (such as 11, 79, 13, 17), it is indeed a composite number.
+###
+Yes.
+###
+No.
+###
+No, 871 is not a prime number. It is divisible by 17 and 51.
+###
+To determine if 871 is a prime number, we can check if it is divisible by any whole numbers other than 1 and itself. 
+Let's start by dividing it by 2.
+###
+Yes, 871 is a composite number.
+###
+To determine if 871 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+First, we start by dividing it by 2, the first prime number. However, 871 is not divisible by 2.
+
+Next, we continue dividing by prime numbers up to the square root of 871 (approximately 29.5). After checking some prime numbers, we find that 871 is divisible by 13. 
+
+Dividing 871 by 13 gives the quotient 67. 
+
+Since 67 is a prime number (it is only divisible by 1 and itself), there are no other factors of 871.
+
+Therefore, 871 is not a composite number. It is a prime number.
+###
+Yes
+###
+Yes
+###
+Yes, 493 is not a prime number.
+###
+To determine if 493 is a prime number, we can check if it has any divisors other than 1 and itself.
+
+To do this, we need to perform the following steps:
+
+1. Find the square root of 493. 
+   The square root of 493 is approximately 22.2036.
+
+2. Check divisibility by prime numbers less than or equal to the square root. 
+   Now, we can check divisibility by prime numbers such as 2, 3, 5, 7, 11, etc.
+
+   Dividing 493 by 2: 493 ÷ 2 = 246.5 --> Not a whole number. 
+   Dividing 493 by 3: 493 ÷ 3 = 164.3333 --> Not a whole number. 
+   Dividing 493 by 5: 493 ÷ 5 = 98.6 --> Not a whole number. 
+   Dividing 493 by 7: 493 ÷ 7 = 70.4286 --> Not a whole number. 
+   Dividing 493 by 11: 493 ÷ 11 = 44.8182 --> Not a whole number. 
+
+   Since we have checked divisibility up to the square root of 493 and did not find any whole number divisors, we can conclude that 493 is a prime number.
+
+Therefore, 493 is a prime number.
+###
+Yes, 493 is a composite number.
+###
+To determine if a number is composite, we need to check if it has any factors other than 1 and itself. We can do this by finding all the factors of 493.
+
+The factors of 493 can be found by dividing it by all the numbers from 1 to the square root of 493 (rounded up) and checking if any of them divide evenly into 493.
+
+The square root of 493 is approximately 22.2, so we only need to check the numbers up to 23.
+
+Let's divide 493 by these numbers and see if any of them divide evenly:
+
+493 ÷ 1 = 493 (not a factor)
+493 ÷ 2 = 246.5 (not a factor)
+493 ÷ 3 = 164.33 (not a factor)
+493 ÷ 4 = 123.25 (not a factor)
+493 ÷ 5 = 98.6 (not a factor)
+493 ÷ 6 = 82.16 (not a factor)
+493 ÷ 7 = 70.43 (not a factor)
+493 ÷ 8 = 61.63 (not a factor)
+493 ÷ 9 = 54.77 (not a factor)
+493 ÷ 10 = 49.3 (not a factor)
+493 ÷ 11 = 44.82 (not a factor)
+493 ÷ 12 = 41.08 (not a factor)
+493 ÷ 13 = 37.92 (not a factor)
+493 ÷ 14 = 35.21 (not a factor)
+493 ÷ 15 = 32.87 (not a factor)
+493 ÷ 16 = 30.81 (not a factor)
+493 ÷ 17 = 29 (not a factor)
+493 ÷ 18 = 27.39 (not a factor)
+493 ÷ 19 = 25.95 (not a factor)
+493 ÷ 20 = 24.65 (not a factor)
+493 ÷ 21 = 23.48 (not a factor)
+493 ÷ 22 = 22.41 (not a factor)
+493 ÷ 23 = 21.43 (not a factor)
+
+Since there are no factors of 493 other than 1 and itself, we can conclude that 493 is a prime number, not a composite number.
+###
+Yes.
+###
+No.
+###
+No, 629 is not a prime number. It is divisible by 17 and 37.
+###
+To determine if 629 is a prime number, we can check if it is divisible by any whole number greater than 1 and less than or equal to its square root.
+
+The square root of 629 is approximately 25.08.
+
+Let's check if 629 is divisible by numbers between 2 and 25.
+
+Dividing 629 by 2 does not yield an integer result.
+
+Dividing 629 by 3 does not yield an integer result.
+
+Dividing 629 by 4 does not yield an integer result.
+
+Dividing 629 by 5 does not yield an integer result.
+
+Dividing 629 by 6 does not yield an integer result.
+
+Dividing 629 by 7 does not yield an integer result.
+
+Dividing 629 by 8 does not yield an integer result.
+
+Dividing 629 by 9 does not yield an integer result.
+
+Dividing 629 by 10 does not yield an integer result.
+
+Dividing 629 by 11 yields an integer result: 57 with a remainder of 2.
+
+Therefore, 629 is divisible by 11.
+
+Since 629 is divisible by a number greater than 1 and less than or equal to its square root, it is not a prime number.
+
+So, 629 is not a prime number.
+###
+Yes, 629 is a composite number.
+###
+To determine if 629 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+To do this, we can start by finding the prime factors of 629. 
+
+To find the factors, we can start by dividing 629 by the smallest prime numbers (2, 3, 5, 7, etc.) and see if any of them divide exactly.
+
+When we divide 629 by 2, we get 314.5, which is not a whole number. 
+When we divide 629 by 3, we get 209.67, which is also not a whole number.
+When we divide 629 by 4, we get 157.25, which is still not a whole number.
+This process continues, and when we divide 629 by 17, we get a whole number (37). 
+
+Therefore, we have found a factor of 629 (17) other than 1 and itself. 
+
+Since 629 has factors other than 1 and itself (specifically, 17 and 37), it is considered a composite number.
+###
+Yes.
+###
+Yes
+###
+No, 247 is not a prime number. It is divisible by 13 and 19.
+###
+To determine if 247 is a prime number, we need to check if it is divisible by any numbers other than 1 and itself.
+
+We can start by dividing 247 by 2. If 247 is divisible by 2, it would not be a prime number.
+
+247 divided by 2 is not a whole number, which means 2 is not a factor of 247.
+
+Next, we can try dividing 247 by 3, since it is the next prime number.
+
+247 divided by 3 is not a whole number either, so 3 is not a factor of 247.
+
+Continuing this process, we can proceed to divide 247 by 5, 7, 11, and so on.
+
+After checking all prime numbers up to the square root of 247, we find that none of them divide 247 evenly.
+
+Therefore, 247 is not divisible by any numbers other than 1 and itself, so we can conclude that 247 is a prime number.
+###
+Yes, 247 is a composite number.
+###
+To determine if 247 is a composite number, we need to determine if it has any factors other than 1 and itself.
+
+To do this, we can start by finding the prime factorization of 247.
+
+The prime factorization is the process of breaking down the number into its prime factors, which are the prime numbers that can divide the number evenly.
+
+We start by dividing 247 by the smallest prime number, 2. However, 247 is not divisible by 2 as it is an odd number.
+
+We continue by dividing 247 by the next prime number, 3. We find that 247 divided by 3 is approximately 82 remainder 1.
+
+Moving on, we try dividing 247 by the next prime number, 5. Again, it does not divide evenly.
+
+Next, we check if 247 is divisible by 7. We find that 247 divided by 7 is approximately 35 remainder 2.
+
+Continuing, we try 11 as a divisor. However, 247 is not divisible by 11.
+
+Since we have checked all prime numbers up to the square root of 247 (which is approximately 15.7), and found no factors other than 1 and 247, we can conclude that 247 is a composite number.
+
+Therefore, the answer is yes, 247 is a composite number.
+###
+Yes.
+###
+No.
+###
+No, 377 is not a prime number. It can be divided evenly by 13 and 29.
+###
+To determine if 377 is a prime number, we need to check if it is divisible by any number other than 1 and itself.
+
+We can start by checking if it is divisible by 2. If a number is even, it is immediately divisible by 2. However, 377 is an odd number, so it is not divisible by 2.
+
+Next, we can check if it is divisible by 3. To do this, we add the digits of 377: 3 + 7 + 7 = 17. Since 17 is not divisible by 3, 377 is not divisible by 3 either.
+
+Now, we can check further by trying to divide 377 by prime numbers greater than 3, such as 5, 7, 11, and so on. However, we can stop here, as we have already checked the divisibility by 2 and 3, which are the smallest prime numbers.
+
+Therefore, we can conclude that 377 is not divisible by any prime numbers other than 1 and itself. Hence, 377 is a prime number.
+###
+Yes, 377 is a composite number.
+###
+To determine if 377 is a composite number, we need to check if it is divisible by any number other than 1 and itself.
+
+We can start by checking if 377 is divisible by 2. Since the last digit of 377 is odd, it is not divisible by 2.
+
+Next, we can check the divisibility of 377 by 3. Adding up the digits of 377 (3 + 7 + 7), we get 17, which is not divisible by 3.
+
+Now, we can check the divisibility of 377 by 5. The last digit of 377 is not 0 or 5, so it is not divisible by 5.
+
+Moving on, we can check the divisibility of 377 by 7. By applying the division rule for 7, we have 377 ÷ 7 = 53 remainder 6. Since the remainder is not 0, 377 is not divisible by 7.
+
+Continuing, we can check the divisibility of 377 by 11. By applying the division rule for 11, we have 377 ÷ 11 = 34 remainder 3. Since the remainder is not 0, 377 is not divisible by 11.
+
+Finally, we can check the divisibility of 377 by 13. By applying the division rule for 13, we have 377 ÷ 13 = 29 remainder 0. Since the remainder is 0, 377 is divisible by 13.
+
+Since 377 is divisible by 13 and it is not divisible by any other number apart from 1 and itself, it is not a composite number. Instead, 377 is a prime number.
+###
+Yes.
+###
+Yes, 377 is divisible by 29.
+###
+Yes, 253 is not a prime number. It is divisible by 11 and 23.
+###
+To determine if 253 is a prime number, we need to test if it is divisible by any number other than 1 and itself.
+
+To do this, we need to find all the factors of 253. We can start by finding the square root of 253, which is approximately 15.92. We only need to check for divisibility up to this value.
+
+We can check if 253 is divisible by 2, 3, 4, etc. However, we observe that 253 is an odd number and not divisible by 2.
+
+Next, we check if 253 is divisible by 3. The sum of its digits, 2 + 5 + 3, is 10, which is not divisible by 3. Therefore, 253 is not divisible by 3.
+
+We continue in this manner, checking if 253 is divisible by 4, 5, 6, etc., until we reach 15. We find that 253 is not divisible by any of these numbers.
+
+Therefore, we can conclude that 253 is a prime number since it is not divisible by any number other than 1 and itself.
+###
+Yes, 253 is a composite number.
+###
+To determine if 253 is a composite number, we need to check if it has any factors other than 1 and itself.
+
+To do this, we can check all numbers starting from 2 up to the square root of 253 (which is approximately 15.92). If any of these numbers divide 253 without leaving a remainder, then it is a factor of 253.
+
+Checking the divisors, we find that 253 can be divided evenly by 11: 
+253 ÷ 11 = 23. 
+
+So, 253 is divisible by 11, which means it has factors other than 1 and itself.
+
+Therefore, 253 is a composite number.
+###
+Yes.
+###
+Yes.
+###
+No, 767 is not a prime number. It can be divided evenly by 11 and 7.
+###
+To determine if 767 is a prime number, we need to check if it has any factors other than 1 and itself. 
+
+First, let's check if it is divisible by 2. Since the last digit is odd, 767 is not divisible by 2. 
+
+Next, let's try dividing by odd numbers up to the square root of 767, which is approximately 27.7. We don't need to go beyond the square root because if there are no factors smaller than the square root, there can be no factors greater than the square root.
+
+Trying numbers from 3 to 27, we find that 767 is not divisible by any of these numbers. 
+
+Therefore, 767 is a prime number as it has no factors other than 1 and itself.
+###
+Yes, 767 is a composite number.
+###
+To determine if 767 is a composite number, we need to see if it is divisible by any numbers other than 1 and itself.
+
+To do this, we can check for divisibility by numbers up to the square root of 767, which is approximately 27.7.
+
+Let's try dividing 767 by prime numbers less than 27.7:
+
+Dividing by 2: 767 ÷ 2 = 383.5 (not a whole number)
+Dividing by 3: 767 ÷ 3 = 255.666... (not a whole number)
+Dividing by 5: 767 ÷ 5 = 153.4 (not a whole number)
+Dividing by 7: 767 ÷ 7 = 109.571... (not a whole number)
+Dividing by 11: 767 ÷ 11 = 69.727... (not a whole number)
+Dividing by 13: 767 ÷ 13 = 59 (a whole number)
+
+Since 767 is divisible by 13, which is not 1 or 767, it is a composite number.
+###
+No.
+###
+No

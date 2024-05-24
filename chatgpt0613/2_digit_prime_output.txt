@@ -1,0 +1,497 @@
+###
+Yes, 11 is a prime number because it is only divisible by 1 and 11 itself.
+###
+Yes, 11 is a prime number. To confirm this, we can follow these steps:
+
+1. Start by checking if 11 is divisible by any number less than itself. 
+2. The smallest prime number greater than 1 is 2. So, check if 11 is divisible by 2. Since 11 is not an even number, it is not divisible by 2.
+3. Next, check if 11 is divisible by any odd number greater than 2, up to the square root of 11 (approximately 3.32). That means we can check divisibility by 3 and 5 as the next odd numbers.
+4. 11 is not divisible by 3, as 3 does not divide evenly into 11.
+5. 11 is also not divisible by 5, as 5 does not divide evenly into 11.
+6. Since we have checked for divisibility by all prime numbers less than the square root of 11, and 11 is not divisible by any of them, we can conclude that 11 is indeed a prime number.
+
+Therefore, 11 is a prime number.
+###
+No, 11 is not a composite number. A composite number is a positive integer greater than 1 that has divisors other than 1 and itself. Since the only divisors of 11 are 1 and 11, it is a prime number.
+###
+No, 11 is not a composite number. A composite number is a positive integer greater than 1 that has at least one divisor other than 1 and itself. Since 11 only has two divisors, 1 and 11, it is not divisible by any other number and hence is not composite.
+###
+Yes, 13 is a prime number because it is only divisible by 1 and itself.
+###
+To determine if 13 is a prime number, we need to check if it is divisible by any numbers other than 1 and itself.
+
+We can start by checking if any of the numbers from 2 to the square root of 13 divide evenly into 13. The square root of 13 is approximately 3.61.
+
+Checking the numbers 2, 3, and 4, we see that none of them divide evenly into 13. Therefore, we can conclude that 13 is not divisible by any number other than 1 and itself.
+
+Since 13 has no divisors other than 1 and itself, we can say that 13 is a prime number.
+###
+No, 13 is not a composite number. A composite number is a positive integer that has at least one divisor other than 1 and itself. Since 13 only has 1 and 13 as its divisors, it is considered a prime number.
+###
+No, 13 is not a composite number. A composite number is a positive integer that has more than two distinct positive divisors. Since 13 has only two positive divisors, which are 1 and 13, it is considered a prime number.
+###
+Yes, 17 is a prime number because it only has two factors, 1 and 17. There are no other positive integers that divide evenly into 17.
+###
+Yes, let's think step by step. To determine if 17 is a prime number, we need to check if it is divisible by any number other than 1 and itself. 
+
+First, we can check if 17 is divisible by 2. Since 17 is an odd number and not divisible by 2, we can move on to the next potential divisor.
+
+Next, we can check if 17 is divisible by 3. Similarly, 17 is not divisible by 3.
+
+We continue this process, checking divisibility by progressively larger prime numbers. Checking divisibility by 5, 7, 11, 13, and so on, we find that none of these numbers evenly divide 17.
+
+Therefore, we can conclude that 17 is a prime number because it is only divisible by 1 and 17, with no other factors.
+###
+No, 17 is not a composite number. A composite number is defined as a number greater than 1 that can be divided evenly by at least one number other than 1 and itself. Since 17 can only be divided evenly by 1 and 17, it is considered a prime number.
+###
+No, 17 is not a composite number. A composite number is a positive integer that has at least one divisor other than 1 and itself. In the case of 17, it only has two divisors, 1 and 17, making it a prime number.
+###
+Yes, 19 is a prime number because it can only be divided by 1 and itself without leaving a remainder.
+###
+To determine if 19 is a prime number, we need to check if it is divisible by any numbers other than 1 and itself.
+
+We can start by checking if it is divisible by 2. Since 19 is an odd number, it is not divisible by 2.
+
+Next, we can check if it is divisible by 3. To do this, we add the individual digits of 19 (1 + 9 = 10) and check if the sum is divisible by 3. Since 10 is not divisible by 3, 19 is also not divisible by 3.
+
+Continuing this process, we can check if 19 is divisible by 5, 7, 11, 13, 17, etc. However, we can already conclude that 19 is a prime number because it is not divisible by any numbers other than 1 and itself.
+
+Therefore, 19 is indeed a prime number.
+###
+No, 19 is not a composite number. It is a prime number because it has only two distinct positive divisors: 1 and 19.
+###
+To determine if 19 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+Starting with the number 2, we can check if 19 is divisible by any numbers up to its square root (which is approximately 4.36). 
+
+Upon checking, we find that 19 is not divisible evenly by any numbers other than 1 and itself. 
+
+Therefore, 19 is not a composite number. It is a prime number.
+###
+Yes, 23 is a prime number. It is only divisible by 1 and 23, without any other factors.
+###
+To determine if 23 is a prime number, we need to check if it is only divisible by 1 and itself.
+
+We can start by checking if it is divisible by any number between 2 and the square root of 23. 
+
+The square root of 23 is approximately 4.795.
+
+We can start checking if it is divisible evenly by 2, 3, or 5. If it is divisible by any of these numbers, then it is not prime.
+
+23 is not divisible by 2, 3, or 5.
+
+Therefore, 23 is a prime number because it is only divisible by 1 and itself.
+###
+No, 23 is not a composite number. A composite number is a positive integer greater than 1 that is divisible by more than just 1 and itself. Since 23 is only divisible by 1 and 23, it is classified as a prime number.
+###
+To determine if 23 is a composite number, we need to check if it can be divided evenly by any numbers other than 1 and itself.
+
+Step 1: Find the factors of 23
+The factors of 23 are 1 and 23, as there are no other numbers that divide evenly into 23 (23/1 = 23 and 23/23 = 1).
+
+Step 2: Count the number of factors
+Since there are only two factors (1 and 23) and no other numbers, we can conclude that 23 is only divisible by 1 and itself.
+
+Step 3: Determine if it is a composite number
+A composite number is defined as a number greater than 1 that has more than two factors. Since 23 has only two factors (1 and 23), it satisfies the definition of a prime number, not a composite number.
+
+Therefore, we can conclude that 23 is not a composite number. It is a prime number.
+###
+Yes, 29 is a prime number. A prime number is a positive integer greater than 1 that has no positive divisors other than 1 and itself. 29 only has divisors of 1 and 29, so it is a prime number.
+###
+To determine if 29 is a prime number, we need to check if it has any factors other than 1 and itself. We can do this by dividing 29 by every number from 2 up to the square root of 29. If no number evenly divides 29, then it is a prime number.
+
+Let's calculate the square root of 29: √29 ≈ 5.385
+
+Now we can check if 29 is divisible by any numbers between 2 and 5. Since 29 is not divisible by 2, 3, 4, or 5, we can conclude that 29 does not have any factors other than 1 and itself.
+
+Therefore, 29 is a prime number.
+###
+No, 29 is not a composite number. It is a prime number because it is only divisible by 1 and itself.
+###
+To determine if 29 is a composite number, we need to check if it has any factors other than 1 and itself.
+
+We start by checking if it is divisible by any number from 2 to the square root of 29, which is approximately 5.39. However, since 29 is a prime number, it only has two factors: 1 and 29. Therefore, 29 is not a composite number; it is a prime number.
+###
+Yes, 31 is a prime number. It is only divisible by 1 and 31 without leaving a remainder.
+###
+To determine if 31 is a prime number, we will check if it is divisible by any number other than 1 and itself.
+
+We need to check divisibility up to the square root of 31, which is approximately 5.57.
+
+Now let's check if 31 is divisible by any number from 2 to 5. 
+
+31 divided by 2 is not an integer. 
+31 divided by 3 is not an integer. 
+31 divided by 4 is not an integer.
+31 divided by 5 is also not an integer.
+
+Since 31 is not divisible by any number other than 1 and itself, we can conclude that 31 is a prime number.
+###
+No, 31 is not a composite number. It is a prime number because it has exactly two distinct factors: 1 and 31. Composite numbers have more than two factors.
+###
+To determine if 31 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+We can start by trying to divide it by all the whole numbers up to its square root, which is approximately 5.57. 
+
+Upon checking, we find that there are no whole number divisions of 31 other than 1 and 31 itself. 
+
+Therefore, since 31 only has two distinct factors, 1 and 31, it is not divisible by any other numbers, and it is not a composite number.
+
+31 is a prime number.
+###
+Yes, 37 is a prime number. A prime number is a natural number greater than 1 that is divisible only by 1 and itself. Since 37 is only divisible by 1 and 37, it is a prime number.
+###
+To determine if 37 is a prime number, we can start by checking if it is divisible by any numbers other than 1 and itself. We can do this by testing for divisibility by numbers up to the square root of 37, which is approximately 6.08.
+
+Starting with 2, we see that 37 divided by 2 gives us a quotient of 18 with a remainder of 1. Since 1 is not equal to 0, we can conclude that 37 is not divisible by 2.
+
+Next, we can try dividing 37 by 3. The quotient is approximately 12.33, and there is a remainder of 1. Again, since the remainder is not 0, 37 is not divisible by 3.
+
+Testing for divisibility by 4, 5, and 6 is not necessary since the result would still be a non-zero remainder.
+
+Continuing this process, we find that 37 is not divisible by any numbers up to 6.
+
+Therefore, we can conclude that 37 is a prime number since it is only divisible by 1 and itself.
+###
+No, 37 is not a composite number. A composite number is a positive integer that has at least one positive divisor other than 1 and itself. Since 37 only has 1 and 37 as divisors, it is a prime number.
+###
+To determine if 37 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+To do this, we can start by checking if any numbers from 2 to the square root of 37 evenly divide 37. If we find any such number, then 37 is a composite number. 
+
+Let's proceed with the calculation: 
+
+The square root of 37 is approximately 6.08 (rounded to two decimal places). 
+
+Now, we need to check if any number between 2 and 6 evenly divides 37. 
+
+By testing each number individually, we find that none of the numbers between 2 and 6 evenly divides 37. 
+
+Therefore, we can conclude that 37 has no factors other than 1 and itself. 
+
+Hence, 37 is not a composite number; it is a prime number.
+###
+Yes, 41 is a prime number.
+###
+To determine if 41 is a prime number, we need to check if it has any factors other than 1 and itself. We can start by checking if any numbers less than the square root of 41 divide evenly into 41. 
+
+The square root of 41 is approximately 6.40. We can check if 41 is divisible by numbers less than 6.40: 
+
+41 ÷ 2 = 20 remainder 1 (not divisible by 2)
+41 ÷ 3 = 13 remainder 2 (not divisible by 3)
+41 ÷ 4 = 10 remainder 1 (not divisible by 4)
+41 ÷ 5 = 8 remainder 1 (not divisible by 5)
+41 ÷ 6 = 6 remainder 5 (not divisible by 6)
+
+Since 41 is not divisible by any numbers less than 6.40, we can conclude that 41 is a Prime Number.
+###
+No, 41 is not a composite number. A composite number is a positive integer that has more than two distinct positive divisors. Since 41 only has two positive divisors, 1 and 41, it is considered a prime number.
+###
+To determine if a number is composite, we need to check if it is divisible by any number other than 1 and itself. 
+
+For 41, we need to check if it has any divisors other than 1 and 41. 
+
+Let's check by dividing 41 by all numbers from 2 to 40. 
+
+41 ÷ 2 = 20 remainder 1
+41 ÷ 3 = 13 remainder 2
+41 ÷ 4 = 10 remainder 1
+41 ÷ 5 = 8 remainder 1
+41 ÷ 6 = 6 remainder 5
+41 ÷ 7 = 5 remainder 6
+41 ÷ 8 = 5 remainder 1
+41 ÷ 9 = 4 remainder 5
+...and so on
+
+As we can see, 41 is not divisible by any number other than 1 and itself. It does not have any other divisors, so 41 is a prime number, not a composite number.
+###
+Yes, 43 is a prime number because it is only divisible by 1 and itself.
+###
+To determine if 43 is a prime number, we need to check if it is divisible by any numbers other than 1 and itself. 
+
+We can start by checking if it is divisible by any prime numbers less than its square root, i.e., less than or equal to 6. 
+
+When we divide 43 by 2, 3, 4, 5, and 6, we find that it is not divisible evenly without a remainder. 
+
+Therefore, 43 does not have any divisors other than 1 and itself. 
+
+Hence, 43 is a prime number.
+###
+No, 43 is not a composite number. It is a prime number because it is only divisible by 1 and itself.
+###
+To determine if a number is composite or not, we need to check if it has factors other than 1 and itself.
+
+For 43, we need to check if there are any numbers, other than 1 and 43, that divide evenly into it.
+
+By checking all the numbers from 2 to 42, we find that none of them divide evenly into 43. Therefore, the only factors of 43 are 1 and 43.
+
+Since 43 has no other factors, it is not divisible by any other number, and it is not composite. 
+
+Therefore, 43 is a prime number.
+###
+Yes, 47 is a prime number. A prime number is a positive integer greater than 1 that has no positive integer divisors other than 1 and itself. Since 47 is only divisible by 1 and 47, it is a prime number.
+###
+Yes, 47 is a prime number. A prime number is a number that is only divisible by 1 and itself, without any other divisors. In the case of 47, it is only divisible by 1 and 47, making it a prime number.
+###
+No, 47 is not a composite number. It is a prime number because it has only two distinct positive divisors: 1 and 47. A composite number has more than two positive divisors.
+###
+To determine whether 47 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+We can do this by finding the divisors of 47. 
+
+Dividing 47 by numbers greater than 1 and less than 47, we observe that none of these numbers divide 47 evenly. 
+
+Therefore, 47 does not have any factors other than 1 and itself. 
+
+Hence, 47 is not a composite number.
+###
+Yes, 53 is a prime number. It is only divisible by 1 and itself, with no other factors.
+###
+To determine if 53 is a prime number, we need to check if it is divisible by any number other than 1 and itself. 
+
+We can start by checking if 53 is divisible by any prime numbers less than its square root. The square root of 53 is approximately 7.28, so we only need to check if it is divisible by prime numbers less than or equal to 7.
+
+Checking divisibility with prime numbers 2, 3, and 5, we find that 53 is not divisible by any of them. 
+
+Now we need to check if 53 is divisible by any prime numbers greater than 5 and less than its square root, which in this case is just 7. 
+
+When we check divisibility by 7, we find that 53 is not divisible by 7 either. 
+
+Since 53 is not divisible by any numbers other than 1 and itself, we can conclude that 53 is a prime number.
+###
+No, 53 is not a composite number. It is a prime number because it has only two factors, 1 and 53, and cannot be divided evenly by any other positive integer.
+###
+To determine if 53 is a composite number, we need to check if it has any factors other than 1 and itself. By checking all possible factors, we can determine if 53 is a composite number or a prime number. 
+
+First, let's check if 53 is divisible by any numbers between 2 and the square root of 53 (rounded up to the nearest whole number). The square root of 53 is approximately 7.28 (rounded up to 8). 
+
+Now, we will check if 53 is divisible by 2, 3, 4, 5, 6, 7, or 8. 
+
+Checking divisibility by 2: 53 is not even, so it is not divisible by 2. 
+Checking divisibility by 3: The sum of the digits of 53 is 5+3=8. Since 8 is not divisible by 3, then 53 is not divisible by 3. 
+Checking divisibility by 4: 53 is not divisible by 4. 
+Checking divisibility by 5: 53 is not divisible by 5. 
+Checking divisibility by 6: 53 is not divisible by 6. 
+Checking divisibility by 7: By using long division, we find that 53 is not divisible by 7. 
+Checking divisibility by 8: 53 is not divisible by 8. 
+
+Since 53 is not divisible by any numbers between 2 and 8, we can conclude that it is not divisible by any factors other than 1 and itself. Therefore, 53 is a prime number and not a composite number.
+###
+To determine if 59 is a prime number, we need to check if it has any divisors other than 1 and itself. 
+
+To do this, we can check if 59 is divisible by any prime numbers less than its square root, which is approximately 7.68. 
+
+Upon checking, we find that 59 is not divisible by any prime numbers less than 7.68. 
+
+Therefore, we can conclude that 59 is a prime number.
+###
+To determine if 59 is a prime number, we can check if it is divisible by any numbers other than 1 and itself. 
+
+We can start by checking if 59 is divisible by 2, but since 59 is an odd number and not divisible by 2, we can move on to the next potential divisor, which is 3. 
+
+If we divide 59 by 3, we get a quotient of approximately 19.67. Since the quotient is not a whole number, we know that 59 is not divisible by 3. 
+
+Next, we can try dividing 59 by 5, but 59 is not divisible by 5 as well. 
+
+Continuing this process and checking divisibility by numbers up to approximately √59, we find that 59 is not divisible by any other numbers. 
+
+Therefore, we can conclude that 59 is a prime number, since it is only divisible by 1 and itself.
+###
+No, 59 is not a composite number. A composite number is a positive integer that has at least one divisor other than 1 and itself. Since 59 only has the divisors 1 and 59, it is a prime number.
+###
+To determine if a number is composite, we need to check if it can be divided evenly by any numbers other than 1 and itself.
+
+In the case of 59, we can check if it is divisible evenly by any numbers between 2 and 58 (excluding 1 and 59). 
+
+By trying out all the possible divisors, we find that 59 cannot be divided evenly by any number other than 1 and itself. Therefore, 59 is not divisible by any other numbers, making it a prime number and not a composite number.
+###
+Yes, 61 is a prime number. A prime number is a whole number greater than 1 that cannot be divided evenly by any other number except for 1 and itself. Since 61 cannot be divided evenly by any other number except for 1 and 61, it is considered a prime number.
+###
+To check if 61 is a prime number, we need to determine if it has any divisors other than 1 and itself.
+
+To do this, we can divide 61 by all numbers from 2 up to the square root of 61.
+
+However, we can observe that none of the numbers from 2 to 8 (the square root of 61 rounded up) divides 61 evenly.
+
+Therefore, we can conclude that 61 is a prime number since it has no divisors other than 1 and itself.
+###
+No, 61 is not a composite number because it has only two distinct factors: 1 and 61 itself. A composite number has more than two distinct factors.
+###
+To determine if 61 is a composite number, we need to check if it has any factors other than 1 and itself. In this case, we only need to check for factors up to the square root of 61, which is approximately 7.81.
+
+Now, we will check if 61 is divisible by any numbers between 2 and 7. 
+
+Starting with 2, we find that 61 is not divisible by 2. 
+
+Next, we check if 61 is divisible by 3. Again, it is not divisible by 3.
+
+We continue this process for the numbers 4, 5, 6, and 7, and find that none of them divide evenly into 61.
+
+Since 61 is not divisible by any number other than 1 and itself, it is a prime number. 
+
+So, to answer your question, no, 61 is not a composite number; it is a prime number.
+###
+Yes, 67 is a prime number. It only has two factors: 1 and 67.
+###
+To determine if 67 is a prime number, we can check if it is divisible by any numbers other than 1 and itself. 
+
+First, we can check if it is divisible by any prime numbers less than or equal to its square root (approximately 8.19). Trying to divide 67 by 2, 3, 5, and 7, we find that it is not divisible by any of these prime numbers.
+
+Therefore, we can conclude that 67 is a prime number since it is not divisible by any numbers other than 1 and itself.
+###
+No, 67 is not a composite number. A composite number is a positive integer greater than 1 that has more than two positive divisors. Since 67 is a prime number, meaning it is divisible only by 1 and itself, it is not composite.
+###
+To determine if a number is composite, we need to check if it has any factors other than 1 and itself. 
+
+Starting with 67, we can try to divide it by prime numbers greater than 1. Let's try dividing it by the smallest prime number, which is 2. 
+
+If we divide 67 by 2, we see that it does not divide evenly. The remainder is 1. 
+
+Next, let's try dividing it by the next prime number, which is 3. 
+
+Dividing 67 by 3 gives us a quotient of 22 with a remainder of 1. 
+
+Continuing this process, we can try dividing by other prime numbers such as 5, 7, 11, 13, and so on. However, we observe that none of these numbers divide 67 evenly. 
+
+Since no prime numbers greater than 1 divide 67 evenly, we conclude that 67 does not have any other factors besides 1 and itself. 
+
+Therefore, 67 is not a composite number; it is a prime number.
+###
+Yes, 71 is a prime number because it is only divisible by 1 and itself.
+###
+To determine if 71 is a prime number or not, we can check if it is divisible by any number other than 1 and itself.
+
+Using divisibility rules, we can check if 71 is divisible by prime numbers less than its square root, which is approximately 8.4.
+
+Let's test divisibility by each prime number less than 8: 2, 3, 5, and 7.
+
+71 ÷ 2 = 35.5 (Not divisible)
+71 ÷ 3 = 23.667 (Not divisible)
+71 ÷ 5 = 14.2 (Not divisible)
+71 ÷ 7 = 10.142 (Not divisible)
+
+Since 71 is not divisible evenly by any prime number less than 8, it is not divisible by any other number except 1 and itself. Therefore, 71 is a prime number.
+###
+No, 71 is not a composite number. It is a prime number because it has only two factors: 1 and 71.
+###
+Yes, 71 is a prime number. To determine if a number is composite or prime, we need to check if it is divisible by any number other than 1 and itself. In the case of 71, it is not divisible by any number other than 1 and 71 itself, so it is a prime number.
+###
+Yes, 73 is a prime number. A prime number is a positive integer greater than 1 that only has two positive divisors: 1 and itself. In the case of 73, it is only divisible by 1 and 73, making it a prime number.
+###
+To check if a number is prime, we need to test if it is divisible by any number other than 1 and itself.
+
+Step 1: Check divisibility by 2
+Since 73 is an odd number, it is not divisible by 2.
+
+Step 2: Check divisibility by odd numbers up to the square root of 73
+The square root of 73 is approximately 8.54. Testing divisibility by odd numbers up to 8:
+73 is not divisible by 3, 5, 7.
+
+Step 3: Conclusion
+73 is not divisible by any number other than 1 and itself.
+Therefore, 73 is a prime number.
+###
+No, 73 is not a composite number. A composite number is a positive integer greater than 1 that has at least one positive divisor other than 1 and itself. Since 73 only has two positive divisors, 1 and 73, it is classified as a prime number.
+###
+To determine if 73 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+First, we can see that 73 is only divisible by 1 and 73. Since there are no other factors, we can conclude that 73 is not divisible by any other number and therefore it is not a composite number. 
+
+In fact, 73 is a prime number because it only has two factors: 1 and 73.
+###
+Yes, 79 is a prime number. It is only divisible by 1 and itself, with no other factors.
+###
+To determine if a number is prime or not, we need to check for any factors other than 1 and itself. 
+
+In the case of 79, we need to check if it is divisible by any number between 2 and the square root of 79. 
+
+The square root of 79 is approximately 8.89, so we only need to check for factors up to 8. 
+
+By trying all the numbers from 2 to 8, we can see that none of them divide 79 evenly. 
+
+Therefore, 79 is not divisible by any number other than 1 and itself, making it a prime number.
+###
+No, 79 is not a composite number. It is a prime number because it is only divisible by 1 and itself.
+###
+To determine if a number is composite, we need to check if it has any factors other than one and itself. 
+
+To do this, we can find the prime factorization of the number. 
+
+However, starting with 2, we find that 79 is not divisible by any subsequent prime numbers. 
+
+Therefore, 79 does not have any factors other than one and itself. 
+
+Hence, 79 is not a composite number.
+###
+Yes, 83 is a prime number. It is only divisible by 1 and itself.
+###
+To determine if 83 is a prime number, we need to check if it has any divisors other than 1 and itself. 
+
+First, we can check if it is divisible by any prime numbers less than its square root (approximately 9). 
+
+Dividing 83 by prime numbers 2, 3, 5, and 7, we find that none of them divide evenly into 83. 
+
+Therefore, we conclude that 83 is a prime number since it does not have any divisors other than 1 and itself.
+###
+No, 83 is not a composite number. A composite number is a positive integer that has more than two distinct positive divisors. 83 only has two distinct positive divisors, 1 and 83, making it a prime number.
+###
+Yes, 83 is a prime number. To determine whether a number is composite or prime, we need to check if it has any factors other than 1 and itself. If a number has factors other than 1 and itself, it is a composite number. However, if a number only has 1 and itself as factors, it is a prime number. In the case of 83, it only has factors 1 and 83, making it a prime number.
+###
+Yes, 89 is a prime number. It is only divisible by 1 and 89 itself.
+###
+To determine if 89 is a prime number, we can check if it is divisible by any number other than 1 and itself. 
+
+We can start by checking if 89 is divisible by any prime numbers less than its square root (approximately 9.4). 
+
+Let's check if it is divisible by the prime numbers 2, 3, 5, and 7. 
+
+When we divide 89 by 2, we get a quotient of 44 with a remainder of 1. 
+
+When we divide 89 by 3, we get a quotient of 29 with a remainder of 2. 
+
+When we divide 89 by 5, we get a quotient of 17 with a remainder of 4. 
+
+When we divide 89 by 7, we get a quotient of 12 with a remainder of 5. 
+
+Since 89 is not divisible by any prime numbers less than its square root, we can conclude that 89 is a prime number.
+###
+No, 89 is not a composite number. A composite number is a positive integer greater than 1 that has at least one divisor other than 1 and itself. Since 89 is only divisible by 1 and 89, it is a prime number.
+###
+To determine if 89 is a composite number, we need to check if it has any factors other than 1 and itself.
+
+First, let's try dividing 89 by all numbers from 2 to 88. If we find any numbers that divide evenly into 89, then 89 is a composite number. Otherwise, it is a prime number.
+
+As we go through the list of numbers, we find that 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, and so on, do not evenly divide into 89. 
+
+Finally, we reach the number 89. Dividing 89 by 89 gives us 1 with no remainder. 
+
+Since 89 has only two factors, 1 and itself, it does not have any other factors. Therefore, 89 is not divisible by any other whole numbers, making it a prime number.
+
+In conclusion, 89 is not a composite number but a prime number.
+###
+Yes, 97 is a prime number.
+###
+To determine if 97 is a prime number, we can follow these steps:
+
+1. Check divisibility by 2: Since 97 is an odd number, it's not divisible by 2.
+
+2. Check divisibility by numbers between 3 and the square root of 97 (approximately 9.8): 
+   - We divide 97 by 3, 4, 5, 6, 7, 8 and 9.
+   - We find that 97 is not divisible by any of these numbers (remainder is always nonzero).
+
+3. Thus, we can conclude that 97 is only divisible by 1 and itself.
+
+Therefore, 97 is a prime number.
+###
+No, 97 is not a composite number. It is a prime number because it only has two distinct positive divisors - 1 and 97.
+###
+To determine if 97 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+We can start by checking if any numbers from 2 to square root of 97 divide evenly into 97. 
+
+The square root of 97 is approximately 9.85, so we only need to check for factors up to 9. 
+
+Upon checking, we find that no numbers from 2 to 9 divide evenly into 97. 
+
+Since 97 does not have any factors other than 1 and itself, we can conclude that 97 is a prime number, not a composite number.
